@@ -68,15 +68,57 @@ main {
 }
 
 .category h2 {
-  margin: 0 0 4px 0;
-  font-size: 16px;
+  margin: 0 0 10px 0;
+  font-size: 17px;
   color: var(--accent);
 }
 
-.category .subtitle {
+.section-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
   color: var(--muted);
-  font-size: 12px;
-  margin-bottom: 12px;
+  margin: 16px 0 8px 0;
+  font-weight: 700;
+}
+.section-label:first-of-type { margin-top: 0; }
+
+.analysis {
+  color: var(--text);
+  font-size: 13.5px;
+  line-height: 1.55;
+  background: rgba(88,166,255,0.06);
+  border-left: 3px solid var(--accent);
+  padding: 10px 12px;
+  border-radius: 0 6px 6px 0;
+}
+
+.key-figures {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.kf {
+  background: rgba(63,185,80,0.08);
+  border: 1px solid rgba(63,185,80,0.35);
+  border-radius: 8px;
+  padding: 8px 10px;
+  min-width: 100px;
+  flex: 1 1 auto;
+}
+
+.kf .kf-value {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--accent2);
+  line-height: 1.2;
+}
+
+.kf .kf-label {
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 2px;
 }
 
 .item {
@@ -93,6 +135,13 @@ main {
 }
 .item a:hover { color: var(--accent); text-decoration: underline; }
 
+.item .orig-title {
+  color: var(--muted);
+  font-size: 11px;
+  font-style: italic;
+  margin-top: 2px;
+}
+
 .item .summary {
   color: var(--muted);
   font-size: 13px;
@@ -104,6 +153,18 @@ main {
   font-size: 11px;
   color: var(--accent2);
   margin-top: 4px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.lang-badge {
+  font-size: 10px;
+  background: var(--border);
+  color: var(--muted);
+  border-radius: 4px;
+  padding: 1px 5px;
+  text-transform: uppercase;
 }
 
 .hidden { display: none; }

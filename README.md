@@ -24,19 +24,31 @@ Dashboard web affichant 6 recherches de veille quotidienne, générées automati
   "generated_at": "2026-09-15T06:00:00Z",
   "categories": {
     "ecommerce": {
-      "summary": "Résumé court de la tendance du jour",
+      "summary": "Analyse rédigée en français des tendances du jour (quelques phrases)",
+      "key_figures": [
+        { "label": "Ventes e-commerce mondiales 2026", "value": "~7,4 billions $" }
+      ],
       "items": [
-        { "title": "...", "url": "...", "description": "...", "tag": "optionnel" }
+        {
+          "title_fr": "Titre traduit en français",
+          "title_original": "Original title if not French",
+          "url": "...",
+          "description_fr": "Description en français (1-2 phrases)",
+          "tag": "Source",
+          "lang": "en"
+        }
       ]
     },
-    "apps_jeux": { "summary": "...", "items": [...] },
-    "reseaux_sociaux": { "summary": "...", "items": [...] },
-    "google_trends": { "summary": "...", "items": [...] },
-    "business_ideas": { "summary": "...", "items": [...] },
-    "news_ia": { "summary": "...", "items": [...] }
+    "apps_jeux": { "summary": "...", "key_figures": [...], "items": [...] },
+    "reseaux_sociaux": { "summary": "...", "key_figures": [...], "items": [...] },
+    "google_trends": { "summary": "...", "key_figures": [...], "items": [...] },
+    "business_ideas": { "summary": "...", "key_figures": [...], "items": [...] },
+    "news_ia": { "summary": "...", "key_figures": [...], "items": [...] }
   }
 }
 ```
+
+Chaque catégorie affiche 3 blocs dans l'ordre : **Analyse** (interprétation rédigée), **Chiffres clés** (statistiques factuelles), **Articles** (titre + résumé traduits en français, avec le titre original en italique si la source n'était pas française).
 
 ## Lancer en local
 

@@ -24,22 +24,66 @@ async function loadDay(date) {
   return res.json();
 }
 
+function escapeHtml(str) {
+  if (!str) return '';
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
+function renderKeyFigures(figures) {
+  if (!figures || figures.length === 0) return '';
+  return `
+    <div class="section-label">Chiffres clés</div>
+    <div class="key-figures">
+      ${figures.map(f => `
+        <div class="kf">
+          <div class="kf-value">${escapeHtml(f.value)}</div>
+          <div class="kf-label">${escapeHtml(f.label)}</div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+function renderItems(items) {
+  if (!items || items.length === 0) {
+    return '<div class="summary">Aucun article disponible.</div>';
+  }
+  return items.map(it => {
+    const titleFr = it.title_fr || it.title || '(sans titre)';
+    const descFr = it.description_fr || it.description || '';
+    const showOriginal = it.title_original && it.title_original !== titleFr;
+    const lang = it.lang || 'fr';
+    return `
+      <div class="item">
+        <a href="${it.url || '#'}" target="_blank" rel="noopener">${escapeHtml(titleFr)}</a>
+        ${showOriginal ? `<div class="orig-title">VO : ${escapeHtml(it.title_original)}</div>` : ''}
+        <div class="summary">${escapeHtml(descFr)}</div>
+        <div class="meta">
+          ${it.tag ? `<span>${escapeHtml(it.tag)}</span>` : ''}
+          ${lang !== 'fr' ? `<span class="lang-badge">traduit de l'${lang === 'en' ? 'anglais' : lang}</span>` : ''}
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
 function renderCategory(key, data) {
   const label = CATEGORY_LABELS[key] || key;
   const items = (data && data.items) || [];
   const summary = (data && data.summary) || '';
+  const figures = (data && data.key_figures) || [];
   const div = document.createElement('div');
   div.className = 'category';
   div.innerHTML = `
     <h2>${label}</h2>
-    <div class="subtitle">${summary}</div>
-    ${items.map(it => `
-      <div class="item">
-        <a href="${it.url || '#'}" target="_blank" rel="noopener">${it.title || '(sans titre)'}</a>
-        <div class="summary">${it.description || ''}</div>
-        ${it.tag ? `<div class="meta">${it.tag}</div>` : ''}
-      </div>
-    `).join('') || '<div class="summary">Aucun élément.</div>'}
+    <div class="section-label">Analyse</div>
+    <div class="analysis">${escapeHtml(summary) || 'Analyse indisponible.'}</div>
+    ${renderKeyFigures(figures)}
+    <div class="section-label">Articles</div>
+    ${renderItems(items)}
   `;
   return div;
 }

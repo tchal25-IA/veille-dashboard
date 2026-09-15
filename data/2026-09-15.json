@@ -1,208 +1,105 @@
 {
-  "generated_at": "2026-09-15T00:00:00Z",
+  "generated_at": "2026-09-15T02:40:00Z",
   "categories": {
     "ecommerce": {
-      "summary": "Les tendances e-commerce de la rentrée 2026 confirment la montée en puissance de la personnalisation par l'IA, du mobile-first et des niches à forte marge. Les guides sectoriels mettent en avant des micro-niches préqualifiées (121 identifiées pour septembre 2026) plutôt que des catégories généralistes déjà saturées. La donnée client et les avis restent des leviers de conversion majeurs.",
+      "summary": "Le e-commerce mondial poursuit sa trajectoire de croissance r\u00e9guli\u00e8re : les ventes en ligne devraient d\u00e9passer 6,9 a 7,4 billions de dollars en 2026, port\u00e9es par l'IA g\u00e9n\u00e9rative (recommandations, chatbots d'achat), le commerce social et l'essor de micro-niches tr\u00e8s cibl\u00e9es plut\u00f4t que de larges cat\u00e9gories d\u00e9j\u00e0 satur\u00e9es. L'\u00e9lectronique grand public reste la cat\u00e9gorie la plus lucrative, mais la vraie bataille se joue d\u00e9sormais sur la personnalisation et l'exp\u00e9rience post-achat (avis, fid\u00e9lisation). Aux \u00c9tats-Unis, la part du e-commerce dans le commerce de d\u00e9tail total continue de grimper doucement, confirmant une transition structurelle plut\u00f4t qu'un pic conjoncturel.",
+      "key_figures": [
+        { "label": "Ventes e-commerce mondiales 2026", "value": "~7,4 billions $" },
+        { "label": "Part e-commerce / retail total (US, Q2 2026)", "value": "17,1 %" },
+        { "label": "Boutiques en ligne actives dans le monde", "value": "28 M+" },
+        { "label": "D\u00e9penses \u00e9lectronique grand public / an", "value": "988 Md $" },
+        { "label": "Croissance ventes US e-commerce 2026 vs 2025", "value": "+6,9 %" }
+      ],
       "items": [
-        {
-          "title": "Produits et industries e-commerce tendances en 2026",
-          "url": "https://business.trustedshops.fr/blog/e-commerce-2026-produits-tendances-vendre-en-ligne",
-          "description": "Panorama des produits et catégories à fort potentiel pour maximiser trafic qualifié et conversion en 2026.",
-          "tag": "Trusted Shops"
-        },
-        {
-          "title": "15 tendances e-commerce incontournables en 2026",
-          "url": "https://skeepers.io/fr/blog/les-15-tendances-e-commerce-incontournables-en-2026-anticiper-pour-reussir/",
-          "description": "La personnalisation, la gestion de la data et le poids des avis clients redéfinissent la relation marques-consommateurs.",
-          "tag": "Skeepers"
-        },
-        {
-          "title": "Niches e-commerce 2026 : 15 exemples avec marges chiffrées",
-          "url": "https://speed-ecom.eu/blog/niches-ecommerce-rentables-2026-exemples/",
-          "description": "121 niches préqualifiées pour septembre 2026, avec méthode de sélection et marges estimées.",
-          "tag": "Speed-Ecom"
-        },
-        {
-          "title": "Les 11 tendances e-commerce à connaître pour 2026",
-          "url": "https://www.wizishop.fr/blog/tendances-ecommerce",
-          "description": "Tour d'horizon des évolutions attendues pour adapter les boutiques en ligne cette année.",
-          "tag": "WiziShop"
-        },
-        {
-          "title": "Top 35 des produits tendance à vendre en 2026",
-          "url": "https://www.hostinger.com/fr/tutoriels/produits-tendances-a-vendre/",
-          "description": "Sélection de produits rentables allant de la tech à la beauté pour se lancer rapidement.",
-          "tag": "Hostinger"
-        }
+        { "title_fr": "82 statistiques e-commerce essentielles pour 2026", "title_original": "82 Most Important E-Commerce Statistics for 2026", "url": "https://www.zikanalytics.com/blog/e-commerce-statistics/", "description_fr": "L'\u00e9lectronique grand public reste la cat\u00e9gorie la plus d\u00e9pensi\u00e8re en ligne, avec 988 milliards de dollars de ventes annuelles.", "tag": "ZIK Analytics", "lang": "en" },
+        { "title_fr": "Statistiques e-commerce 2026 (donn\u00e9es mondiales et US)", "title_original": "Ecommerce Statistics In 2026 (Global And U.S. Data)", "url": "https://www.sellerscommerce.com/blog/ecommerce-statistics/", "description_fr": "Les ventes e-commerce devraient d\u00e9passer 7,4 billions de dollars en 2026, avec plus de 28 millions de boutiques en ligne actives dans le monde.", "tag": "SellersCommerce", "lang": "en" },
+        { "title_fr": "35 statistiques cl\u00e9s du e-commerce", "title_original": "35 Top E-Commerce Statistics", "url": "https://www.forbes.com/advisor/business/ecommerce-statistics/", "description_fr": "Panorama Forbes des tendances de vente par appareil, avec un recul progressif des achats sur tablette au profit du mobile.", "tag": "Forbes Advisor", "lang": "en" },
+        { "title_fr": "32 tendances e-commerce qui fa\u00e7onnent 2026 (donn\u00e9es v\u00e9rifi\u00e9es)", "title_original": "32 Ecommerce Trends Shaping 2026 (Verified Data)", "url": "https://wiserreview.com/blog/ecommerce-trends/", "description_fr": "IA appliqu\u00e9e au shopping, optimisation du tunnel de paiement, commerce social et logistique : les 4 grands chantiers 2026 des e-commer\u00e7ants.", "tag": "WiserReview", "lang": "en" },
+        { "title_fr": "Rapport DHL 2026 sur les tendances e-commerce", "title_original": "2026 E-Commerce Trends Report - DHL eCommerce", "url": "https://www.dhl.com/global-en/microsites/ec/ecommerce-insights/insights/reports/2026-ecommerce-trends-report.html", "description_fr": "\u00c9tude comparant les attentes des acheteurs en ligne et ce que les entreprises livrent r\u00e9ellement sur les march\u00e9s e-commerce les plus actifs.", "tag": "DHL", "lang": "en" },
+        { "title_fr": "121 niches e-commerce rentables identifi\u00e9es pour septembre 2026", "title_original": "Niches e-commerce 2026 : 15 exemples avec marges chiffr\u00e9es", "url": "https://speed-ecom.eu/blog/niches-ecommerce-rentables-2026-exemples/", "description_fr": "M\u00e9thode de s\u00e9lection de micro-niches pr\u00e9qualifi\u00e9es avec marges estim\u00e9es, plut\u00f4t que des cat\u00e9gories g\u00e9n\u00e9ralistes d\u00e9j\u00e0 satur\u00e9es.", "tag": "Speed-Ecom", "lang": "fr" }
       ]
     },
     "apps_jeux": {
-      "summary": "Les jeux mobiles casual et hyper-accessibles (Subway Surfers, Balatro, Stardew Valley) continuent de dominer les téléchargements, tandis que les productions AAA mobiles s'appuient sur des licences fortes (Honor of Kings sous Unreal Engine 5, cross-play mobile/PC). Une tendance de fond émerge : les jeux « No Ads » comme argument marketing différenciant face à la lassitude publicitaire.",
+      "summary": "Le march\u00e9 des applications reste domin\u00e9 par les assistants IA conversationnels (ChatGPT en t\u00eate absolue des t\u00e9l\u00e9chargements mondiaux) tandis que le jeu mobile traverse une phase de contraction financi\u00e8re malgr\u00e9 des volumes d'usage records : le revenu global recule l\u00e9g\u00e8rement alors que le temps de jeu et le nombre de t\u00e9l\u00e9chargements explosent. Cela traduit une bascule vers des jeux casual gratuits, financ\u00e9s par la pub plut\u00f4t que par les achats in-app, et une pression accrue sur la monetisation. Synergie forte entre IA g\u00e9n\u00e9rative (assistants personnels) et lassitude vis-\u00e0-vis de la publicit\u00e9, qui pousse les jeux \u00ab sans pub \u00bb comme argument de diff\u00e9renciation.",
+      "key_figures": [
+        { "label": "T\u00e9l\u00e9chargements mondiaux ChatGPT (2025)", "value": "770 M" },
+        { "label": "Revenu mondial jeu mobile (S1 2026)", "value": "~40 Md $ (-2 % vs 2025)" },
+        { "label": "Achats in-app jeux mobiles 2026", "value": "82 Md $" },
+        { "label": "T\u00e9l\u00e9chargements jeux mobiles 2026", "value": "50,4 Md" },
+        { "label": "Heures jou\u00e9es sur mobile en 2026", "value": "444,63 Md h" },
+        { "label": "T\u00e9l\u00e9chargements WhatsApp (historique)", "value": "12,16 Md" }
+      ],
       "items": [
-        {
-          "title": "Les meilleurs jeux mobiles en 2026 (iOS/Android)",
-          "url": "https://cryoskill.com/blogs/cryozone/les-meilleurs-jeux-mobiles-en-2026",
-          "description": "Subway Surfers reste l'un des jeux les plus téléchargés de l'histoire du mobile grâce à sa simplicité immédiate.",
-          "tag": "CryoSkill"
-        },
-        {
-          "title": "TOP 60 des jeux mobiles les plus téléchargés (2026)",
-          "url": "https://www.jetpunk.com/user-quizzes/2259797/top-60-des-jeux-mobiles-les-plus-telecharges-en-2026",
-          "description": "Classement de 60 jeux totalisant plus de 450 millions de téléchargements sur Google Play.",
-          "tag": "JetPunk"
-        },
-        {
-          "title": "Meilleurs jeux mobiles 2026 : 15 choix iOS & Android",
-          "url": "https://www.fixgamingchannel.com/best-mobile-games-2026-ios-android/",
-          "description": "Balatro, Stardew Valley et Call of Duty Mobile figurent parmi les picks marquants toutes catégories confondues.",
-          "tag": "FixGamingChannel"
-        },
-        {
-          "title": "Les 10 meilleurs jeux mobile été 2026",
-          "url": "https://dropreference.com/en/blog/guide/best-mobile-games-summer-2026-android-ios",
-          "description": "Honor of Kings, le MOBA le plus joué au monde, devient un action-RPG open-world sous Unreal Engine 5 avec cross-play.",
-          "tag": "DropReference"
-        },
-        {
-          "title": "Meilleurs jeux Android 2026 : 15 jeux à installer",
-          "url": "https://www.fixgamingchannel.com/best-android-games-2026/",
-          "description": "Le modèle « No Ads. Ever. » s'impose comme argument commercial fort face à la saturation publicitaire.",
-          "tag": "FixGamingChannel"
-        }
+        { "title_fr": "Applications les plus populaires (2026) \u2014 Business of Apps", "title_original": "Most Popular Apps (2026) - Business of Apps", "url": "https://www.businessofapps.com/data/most-popular-apps/", "description_fr": "ChatGPT a \u00e9t\u00e9 l'application la plus t\u00e9l\u00e9charg\u00e9e au monde en 2025 avec 770 millions de t\u00e9l\u00e9chargements ; Block Blast le jeu le plus t\u00e9l\u00e9charg\u00e9.", "tag": "Business of Apps", "lang": "en" },
+        { "title_fr": "Top 10 des applications les plus t\u00e9l\u00e9charg\u00e9es sur Google Play (2026)", "title_original": "Top 10 Most Downloaded Apps in Google Play Store (2026)", "url": "https://appradar.com/blog/most-downloaded-apps-in-google-play", "description_fr": "WhatsApp Messenger domine Google Play avec 12,16 milliards de t\u00e9l\u00e9chargements cumul\u00e9s, suivi par Facebook et Messenger.", "tag": "AppRadar", "lang": "en" },
+        { "title_fr": "Le revenu du jeu mobile recule de 2 % \u00e0 40 milliards de dollars en 2026", "title_original": "Mobile Game Revenue Sinks 2% to $40B in 2026", "url": "https://tech-insider.org/mobile-game-revenue-decline-2026/", "description_fr": "Le revenu mondial du jeu mobile a recul\u00e9 de 2 % sur un an, \u00e0 environ 40 milliards de dollars au premier semestre 2026, selon Sensor Tower.", "tag": "Tech Insider", "lang": "en" },
+        { "title_fr": "Top jeux mobiles 2026 : t\u00e9l\u00e9chargements, revenus et utilisateurs actifs", "title_original": "Top mobile games 2026: downloads, revenue and DAU leaders", "url": "https://www.singular.net/blog/top-mobile-games/", "description_fr": "Classement des meilleurs jeux mobiles 2026 par t\u00e9l\u00e9chargements et revenus : Block Blast, Last War et Honor of Kings dominent les classements.", "tag": "Singular", "lang": "en" },
+        { "title_fr": "Statistiques du jeu mobile 2026 : 40+ chiffres cl\u00e9s", "title_original": "Mobile Gaming Statistics (2026): 40+ Data Points on Revenue", "url": "https://www.genzopia.com/blog/mobile-gaming-statistics-2026", "description_fr": "82 milliards de dollars d'achats in-app, 50,4 milliards de t\u00e9l\u00e9chargements et 444,63 milliards d'heures jou\u00e9es en 2026, selon Sensor Tower et Newzoo.", "tag": "Genzopia", "lang": "en" }
       ]
     },
     "reseaux_sociaux": {
-      "summary": "Sur TikTok et Instagram, les formats audio viraux et les Reels courts continuent de structurer l'engagement, avec un renouvellement hebdomadaire des memes et sons tendance. Hootsuite souligne une montée du contenu généré par IA et de la « chaos culture » comme esthétique dominante, tandis que les marques adaptent leurs stratégies de carrousels et formats natifs.",
+      "summary": "En septembre 2026, les tendances TikTok/Instagram m\u00e9langent esth\u00e9tique \u00ab cosy autumn \u00bb, pr\u00e9paratifs de No\u00ebl anticip\u00e9s, formats nostalgiques et Fashion Month. Les marques s'appuient de plus en plus sur des formats collaboratifs (photo \u00e0 \u00e9diter par la communaut\u00e9) et des carrousels th\u00e9matiques plut\u00f4t que sur la seule vid\u00e9o courte. C\u00f4t\u00e9 usage global, les r\u00e9seaux sociaux touchent d\u00e9sormais 63 % de la population mondiale, avec un temps d'usage quotidien qui continue de progresser malgr\u00e9 les discours de lassitude num\u00e9rique.",
+      "key_figures": [
+        { "label": "Utilisateurs r\u00e9seaux sociaux dans le monde", "value": "5,2 Md (63 % pop. mondiale)" },
+        { "label": "Temps quotidien moyen sur les r\u00e9seaux", "value": "2h24" },
+        { "label": "Posts analys\u00e9s pour l'\u00e9tude Buffer 2026", "value": "52 M+" },
+        { "label": "Fr\u00e9quence de mise \u00e0 jour des tendances (Newengen)", "value": "Hebdomadaire" }
+      ],
       "items": [
-        {
-          "title": "Discover new TikTok trends: August 2026",
-          "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
-          "description": "Les sons et memes viraux du moment sur TikTok, mis à jour régulièrement (ex. 'Melissaaaa', 'Liam tips').",
-          "tag": "Epidemic Sound"
-        },
-        {
-          "title": "Social Media Trends 2026",
-          "url": "https://www.hootsuite.com/research/social-trends",
-          "description": "Contenu généré par IA, culture du chaos et snowballing figurent parmi les grandes tendances sociales de l'année.",
-          "tag": "Hootsuite"
-        },
-        {
-          "title": "Instagram Trends: September 2026",
-          "url": "https://newengen.com/insights/instagram-trends/",
-          "description": "Audios tendance, formats Reels viraux et stratégies de carrousels mis à jour chaque semaine.",
-          "tag": "Newengen"
-        },
-        {
-          "title": "The latest Instagram trends (September 10, 2026)",
-          "url": "https://socialbee.com/blog/instagram-trends/",
-          "description": "Analyse hebdomadaire des tendances Instagram pour rester pertinent et engager son audience.",
-          "tag": "SocialBee"
-        },
-        {
-          "title": "20 Instagram trends defining success in 2026",
-          "url": "https://sproutsocial.com/insights/instagram-trends/",
-          "description": "Nouveaux formats et fonctionnalités Instagram à surveiller pour les marques en 2026.",
-          "tag": "Sprout Social"
-        }
+        { "title_fr": "Tendances TikTok & Instagram de septembre 2026", "title_original": "TikTok & Instagram Trends for September 2026", "url": "https://www.pepperagency.com/blog/tiktok-instagram-trends-for-september-2026-and-how-brands-can-actually-use-them", "description_fr": "Esth\u00e9tique automne cosy, shopping de No\u00ebl anticip\u00e9, Fashion Month et formats nostalgiques dominent le mois.", "tag": "Pepper Agency", "lang": "en" },
+        { "title_fr": "Tendances Instagram : septembre 2026 (mise \u00e0 jour hebdomadaire)", "title_original": "Instagram Trends: September 2026 — Updated Weekly", "url": "https://newengen.com/insights/instagram-trends/", "description_fr": "Suivi des audios montants, formats Reels viraux et tendances carrousel avec strat\u00e9gies pour les marques.", "tag": "Newengen", "lang": "en" },
+        { "title_fr": "Tendances TikTok de septembre 2026 : ce qui devient viral", "title_original": "September 2026 TikTok Trends: What's Viral Now", "url": "https://newengen.com/insights/september-tiktok-trends/", "description_fr": "Panorama des sons et formats carrousel qui dominent TikTok ce mois-ci, \u00e0 surveiller par cr\u00e9ateurs et marques.", "tag": "Newengen", "lang": "en" },
+        { "title_fr": "L'\u00e9tat de l'engagement sur les r\u00e9seaux sociaux en 2026", "title_original": "The State of Social Media Engagement in 2026", "url": "https://buffer.com/resources/state-of-social-media-engagement-2026/", "description_fr": "Analyse de plus de 52 millions de posts sur 10 plateformes pour d\u00e9crire l'\u00e9tat r\u00e9el de l'engagement en 2026.", "tag": "Buffer", "lang": "en" },
+        { "title_fr": "Statistiques r\u00e9seaux sociaux 2026 : utilisateurs, engagement et croissance", "title_original": "Social Media Statistics 2026: Users, Engagement & Growth", "url": "https://stats.web2ai.eu/social-media-statistics", "description_fr": "5,2 milliards d'utilisateurs dans le monde (63 % de la population), avec une moyenne de 2h24 d'usage quotidien, majoritairement sur mobile.", "tag": "Web2AI Stats", "lang": "en" }
       ]
     },
     "google_trends": {
-      "summary": "En septembre 2026, les recherches Google les plus fréquentes restent dominées par les grands services numériques (YouTube, Amazon, Gmail) et par ChatGPT, confirmant l'ancrage de l'IA générative dans les usages quotidiens. Les synergies avec l'e-commerce (Amazon) et le divertissement (YouTube, Wordle) restent fortes, ouvrant des opportunités de contenu croisé entre IA, achats en ligne et divertissement léger.",
+      "summary": "Les recherches \u00ab Breakout \u00bb sur Google Trends (croissance de plus de 5000 % sur une courte p\u00e9riode) restent l'indicateur cl\u00e9 pour rep\u00e9rer des tendances \u00e9mergentes avant qu'elles ne deviennent mainstream. Cette approche est de plus en plus utilis\u00e9e pour le SEO et la strat\u00e9gie de contenu (notamment YouTube), en compl\u00e9ment des mots-cl\u00e9s \u00e0 fort volume historique. Les classements des recherches les plus populaires de 2026 confirment la pr\u00e9dominance des sujets li\u00e9s \u00e0 l'IA et un retour marqu\u00e9 des recherches \u00ab vintage \u00bb / d\u00e9co r\u00e9tro.",
+      "key_figures": [
+        { "label": "Seuil de d\u00e9tection \u00ab Breakout \u00bb", "value": "+5 000 % de croissance" },
+        { "label": "Top recherches Google recens\u00e9es (Ahrefs)", "value": "100 requ\u00eates" },
+        { "label": "Classement 'Most searched' analys\u00e9", "value": "Top 1000 mots-cl\u00e9s (Similarweb)" }
+      ],
       "items": [
-        {
-          "title": "Trending Now - Google Trends",
-          "url": "https://trends.google.com/trending",
-          "description": "Outil officiel pour suivre en temps réel les recherches et sujets tendance du jour.",
-          "tag": "Google Trends"
-        },
-        {
-          "title": "Top Google Searches (September 2026)",
-          "url": "https://ahrefs.com/blog/top-google-searches/",
-          "description": "YouTube, Amazon, ChatGPT, Gmail et Wordle dominent le classement des recherches les plus populaires du mois.",
-          "tag": "Ahrefs"
-        },
-        {
-          "title": "Most Popular Google Searches - Top 100 (September 2026)",
-          "url": "https://backlinko.com/google-searches",
-          "description": "Classement complet des 100 requêtes les plus populaires, mêlant grands services numériques et besoins du quotidien.",
-          "tag": "Backlinko"
-        },
-        {
-          "title": "GOOGLE TRENDS 2026 : les données choc de l'année",
-          "url": "https://www.youtube.com/watch?v=BqwkjVyU9As",
-          "description": "Croissance de +7600% des recherches liées à l'IA sur l'année, un signal fort de l'adoption massive du secteur.",
-          "tag": "YouTube"
-        }
+        { "title_fr": "Que signifie \u00ab Breakout \u00bb dans Google Trends ?", "title_original": "What Does “Breakout” Mean In Google Trends?", "url": "https://explodingtopics.com/blog/breakout-google-trends", "description_fr": "Un \u00ab Breakout \u00bb d\u00e9signe une requ\u00eate dont le volume de recherche a augment\u00e9 de plus de 5000 % sur une courte p\u00e9riode : signal fort d'opportunit\u00e9 \u00e9mergente.", "tag": "Exploding Topics", "lang": "en" },
+        { "title_fr": "Google Trends pour le SEO en 2026 : le guide de la v\u00e9locit\u00e9", "title_original": "Google Trends For SEO In 2026: The Velocity Playbook", "url": "https://www.yotpo.com/blog/google-trends-seo-strategy/", "description_fr": "Les tendances \u00ab Breakout \u00bb compl\u00e8tent les mots-cl\u00e9s \u00e0 fort volume historique pour appara\u00eetre dans les recherches pilot\u00e9es par l'IA.", "tag": "Yotpo", "lang": "en" },
+        { "title_fr": "Top recherches Google (septembre 2026)", "title_original": "Top Google Searches (September 2026)", "url": "https://ahrefs.com/blog/top-google-searches/", "description_fr": "Classement des 100 requ\u00eates les plus recherch\u00e9es aux \u00c9tats-Unis et dans le monde en septembre 2026.", "tag": "Ahrefs", "lang": "en" },
+        { "title_fr": "Top 100 des choses les plus recherch\u00e9es sur Google en 2026 (par pays)", "title_original": "Top 100 Most Searched Things On Google in 2026 (By Country)", "url": "https://resourcera.com/data/search/most-searched-things-on-google/", "description_fr": "Panorama des 100 recherches les plus populaires en 2026, avec top questions, marques et outils IA les plus cherch\u00e9s.", "tag": "Resourcera", "lang": "en" },
+        { "title_fr": "Mots-cl\u00e9s les plus recherch\u00e9s : top des recherches Google en 2026", "title_original": "Most Searched Keywords: Top Google Searches in 2026", "url": "https://www.similarweb.com/blog/marketing/seo/top-keywords/", "description_fr": "T\u00e9l\u00e9chargement des 1000 mots-cl\u00e9s les plus recherch\u00e9s au niveau mondial, US et tendances \u00e9mergentes.", "tag": "Similarweb", "lang": "en" }
       ]
     },
     "business_ideas": {
-      "summary": "Les idées de business qui émergent en 2026 misent sur les micro-niches à faible concurrence (bien-être, durabilité, consulting spécialisé) plutôt que sur des marchés généralistes saturés. Les plateformes numériques captant des marchés mal desservis et le consulting de niche répondant à des problèmes émergents sont particulièrement mis en avant, avec des besoins d'investissement initial réduits.",
+      "summary": "Le financement des startups a rebondi fortement en 2026 : le capital-risque mondial a atteint environ 510 milliards de dollars au premier semestre, d\u00e9j\u00e0 plus que sur toute l'ann\u00e9e 2025, avec l'infrastructure IA absorbant la part la plus importante des investissements (OpenAI et Anthropic captant \u00e0 eux seuls une portion consid\u00e9rable). En parall\u00e8le, des bases de donn\u00e9es d'id\u00e9es de startups valid\u00e9es par la demande r\u00e9elle (signaux Reddit, Upwork, App Store) mettent en avant des niches sous-desservies : services propuls\u00e9s par l'IA, fintech et donn\u00e9es alternatives affichent les croissances les plus fortes en pourcentage.",
+      "key_figures": [
+        { "label": "Capital-risque mondial (S1 2026)", "value": "~510 Md $" },
+        { "label": "Capital-risque total 2025 (comparaison)", "value": "440 Md $" },
+        { "label": "Id\u00e9es de startups r\u00e9pertori\u00e9es (IdeaProof)", "value": "2 834+" },
+        { "label": "March\u00e9 fintech 2026 \u2192 2034 (CAGR)", "value": "328,7 Md $ \u2192 1 982 Md $ (+25,2 %/an)" },
+        { "label": "March\u00e9 donn\u00e9es alternatives 2026 \u2192 2033 (CAGR)", "value": "29,6 Md $ \u2192 276,9 Md $ (+37,6 %/an)" }
+      ],
       "items": [
-        {
-          "title": "Top small business ideas for 2026",
-          "url": "https://www.wolterskluwer.com/en/expert-insights/best-small-business-ideas",
-          "description": "Bien-être, tech et durabilité sont les secteurs mis en avant pour démarrer avec peu de capital.",
-          "tag": "Wolters Kluwer"
-        },
-        {
-          "title": "50 Business Ideas Positioned for Growth in 2026 and Beyond",
-          "url": "https://www.uschamber.com/co/start/business-ideas/top-trending-business-ideas",
-          "description": "Les idées gagnantes combinent demande claire du marché, scalabilité et capacité d'adaptation rapide.",
-          "tag": "US Chamber"
-        },
-        {
-          "title": "10 Innovative Business Ideas for 2026",
-          "url": "https://accountabilitynow.net/business-ideas-2026/",
-          "description": "Plateformes numériques captant des marchés mal desservis et consulting de niche pour problèmes émergents.",
-          "tag": "AccountabilityNow"
-        },
-        {
-          "title": "Niche Business Ideas: A Guide to Profitable Niche Business Selection",
-          "url": "https://inarlearn.com/niche-business-ideas-a-guide-to-profitable-niche-business-selection/",
-          "description": "Les niches offrent une concurrence plus faible, une fidélité client plus forte et de meilleurs taux de conversion.",
-          "tag": "Inar Learn"
-        },
-        {
-          "title": "10 Blog Niche Ideas That Actually Make Money in 2026",
-          "url": "https://lovable.dev/guides/profitable-blog-niches-2026",
-          "description": "Outils IA et santé animale figurent parmi les niches de blog les plus rentables identifiées cette année.",
-          "tag": "Lovable"
-        }
+        { "title_fr": "Base de donn\u00e9es d'id\u00e9es de startups 2026 : 2834+ id\u00e9es avec donn\u00e9es de march\u00e9", "title_original": "Startup Ideas Database 2026: 2834+ Ideas with Market Data", "url": "https://ideaproof.io/startup-ideas-database", "description_fr": "Catalogue gratuit et consultable de plus de 2834 id\u00e9es de startups avec taille de march\u00e9, analyse de la concurrence et score de viabilit\u00e9.", "tag": "IdeaProof", "lang": "en" },
+        { "title_fr": "Tendances de financement des startups en 2026 (17 000+ entreprises financ\u00e9es par du VC)", "title_original": "Startup Funding Trends 2026: What 17,000+ VC-Backed Companies", "url": "https://bigideasdb.com/startup-funding-trends-2026", "description_fr": "Le financement mondial en capital-risque est remont\u00e9 vers 300 milliards de dollars d\u00e9but 2026, apr\u00e8s un point bas historique en 2023.", "tag": "BigIdeasDB", "lang": "en" },
+        { "title_fr": "Statistiques de financement des startups par industrie 2026", "title_original": "Startup Funding Statistics by Industry 2026", "url": "https://angelinvestorsnetwork.com/startups/startup-funding-statistics-by-industry-2026", "description_fr": "L'infrastructure IA capte pr\u00e8s de la moiti\u00e9 du capital-risque d\u00e9ploy\u00e9, devant la sant\u00e9/biotech.", "tag": "Angel Investors Network", "lang": "en" },
+        { "title_fr": "Statistiques des startups 2026 : cr\u00e9ation, \u00e9chec et financement", "title_original": "Startup Statistics 2026: Formation, Failure, Funding and", "url": "https://axis-intelligence.com/startup-statistics/", "description_fr": "510 milliards de dollars de capital-risque lev\u00e9s au premier semestre 2026, d\u00e9j\u00e0 plus que sur toute l'ann\u00e9e 2025, OpenAI et Anthropic en t\u00eate.", "tag": "Axis Intelligence", "lang": "en" },
+        { "title_fr": "March\u00e9 des donn\u00e9es alternatives : taille et croissance 2026-2033", "title_original": "Alternative Data Market Size And Growth Report, 2026-2033", "url": "https://www.grandviewresearch.com/industry-analysis/alternative-data-market", "description_fr": "Le march\u00e9 des donn\u00e9es alternatives doit passer de 29,6 milliards de dollars en 2026 \u00e0 276,9 milliards en 2033, soit une croissance annuelle de 37,6 %.", "tag": "Grand View Research", "lang": "en" },
+        { "title_fr": "15 exemples de niches de march\u00e9 lucratives pour 2026", "title_original": "15 lucrative niche market examples for business in 2026", "url": "https://whop.com/blog/niche-markets/", "description_fr": "S\u00e9lection de 15 niches \u00e0 fort potentiel, appuy\u00e9es par des donn\u00e9es de revenus r\u00e9els et des id\u00e9es de produits concr\u00e8tes.", "tag": "Whop", "lang": "en" }
       ]
     },
     "news_ia": {
-      "summary": "L'actualité IA de septembre 2026 est marquée par une vague de nouveaux modèles (Claude Fable 5.1, GPT-6 Astra, Gemini 3.8 Flash) et par des inquiétudes croissantes sur les capacités « critiques » de GPT-6 selon ses propres créateurs. Anthropic publie par ailleurs un rapport détaillant les usages malveillants détectés et contrés entre fin 2025 et août 2026, tandis que le renforcement de l'AI Act européen se poursuit.",
+      "summary": "Le mois de septembre 2026 a \u00e9t\u00e9 particuli\u00e8rement dense en sorties de mod\u00e8les : cinq lancements frontier en dix jours, dont Claude d'Anthropic et DeepSeek-V4.1-Flash, avec l'apparition remarqu\u00e9e de mod\u00e8les \u00e0 capacit\u00e9s cyber. C\u00f4t\u00e9 adoption, l'\u00e9cart entre le taux d'adoption de l'IA en entreprise et l'impact business r\u00e9ellement mesur\u00e9 (le \u00ab AI Adoption-to-Impact Decoupling Index \u00bb) reste consid\u00e9rable, signe que la p\u00e9riode de d\u00e9ploiement massif ne s'est pas encore traduite en gains op\u00e9rationnels \u00e0 la m\u00eame vitesse.",
+      "key_figures": [
+        { "label": "Lancements de mod\u00e8les frontier en 10 jours (sept. 2026)", "value": "5" },
+        { "label": "Entreprises d\u00e9clarant utiliser l'IA", "value": "88 %" },
+        { "label": "Entreprises constatant un b\u00e9n\u00e9fice mesurable", "value": "39 %" },
+        { "label": "\u00c9cart adoption / impact (AIADI)", "value": "82 points" }
+      ],
       "items": [
-        {
-          "title": "September 2026 AI Model Updates: Launches, Pricing, and Architecture Trends",
-          "url": "https://af.net/realtime/september-2026-ai-model-updates-launches-pricing-and-architecture-trends/",
-          "description": "Lancement de Claude Fable 5.1, GPT-6 Astra et Gemini 3.8 Flash, avec de nouvelles grilles tarifaires et architectures.",
-          "tag": "af.net"
-        },
-        {
-          "title": "Detecting and countering misuse of AI: September 2026",
-          "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-          "description": "Anthropic détaille des cas d'usages malveillants de l'IA détectés et neutralisés entre décembre 2025 et août 2026.",
-          "tag": "Anthropic"
-        },
-        {
-          "title": "Un niveau « critique » atteint par GPT-6, inquiétude des créateurs",
-          "url": "https://www.futura-sciences.com/tech/intelligence-artificielle/",
-          "description": "Le nouveau GPT-6 franchit un seuil de capacités jugé critique, suscitant des inquiétudes jusque chez ses propres concepteurs.",
-          "tag": "Futura Sciences"
-        },
-        {
-          "title": "AI Updates Today (September 2026) – Latest AI Model Releases",
-          "url": "https://llm-stats.com/llm-updates",
-          "description": "Plus de 391 sorties de modèles suivies, illustrant un rythme de développement IA sans précédent.",
-          "tag": "llm-stats"
-        },
-        {
-          "title": "\"AI Act\" : l'UE renforce sa loi phare sur l'IA",
-          "url": "https://www.facebook.com/lesoirbe/videos/ai-act-lue-renforce-sa-loi-phare-sur-lia-/1603621914663269/",
-          "description": "Depuis début août 2026, le règlement européen sur l'IA entre dans une phase de renforcement très attendue.",
-          "tag": "Le Soir"
-        }
+        { "title_fr": "Suivi des sorties de mod\u00e8les IA \u2014 septembre 2026", "title_original": "AI Model Releases: September 2026 Tracker and Dated Ledger", "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker", "description_fr": "Registre dat\u00e9 de toutes les sorties de mod\u00e8les IA de septembre 2026, avec prix, taille de contexte et mod\u00e8le remplac\u00e9.", "tag": "Digital Applied", "lang": "en" },
+        { "title_fr": "Derniers mod\u00e8les IA sortis \u2014 septembre 2026", "title_original": "Latest AI Model Releases — September 2026", "url": "https://aireleasetracker.com/latest", "description_fr": "Le mod\u00e8le le plus r\u00e9cent trac\u00e9 est DeepSeek-V4.1-Flash, dans un mois marqu\u00e9 par cinq lancements frontier en dix jours.", "tag": "AI Release Tracker", "lang": "en" },
+        { "title_fr": "Mises \u00e0 jour des mod\u00e8les IA en septembre 2026 : tous les lancements", "title_original": "September 2026 AI Model Updates: Every Launch, Price Move", "url": "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html", "description_fr": "Anthropic a lanc\u00e9 Claude ce mois-ci parmi cinq sorties frontier en dix jours, incluant un mod\u00e8le \u00e0 capacit\u00e9s cyber.", "tag": "Local AI Zone", "lang": "en" },
+        { "title_fr": "Statistiques d'adoption de l'IA 2026 : 88 % l'utilisent, 39 % en b\u00e9n\u00e9ficient", "title_original": "AI Adoption Statistics 2026: 88% Use It, 39% Benefit (Data)", "url": "https://axis-intelligence.com/ai-adoption-statistics/", "description_fr": "88 % des entreprises d\u00e9clarent utiliser l'IA mais seulement 39 % en mesurent un b\u00e9n\u00e9fice tangible : un \u00e9cart adoption/impact de 82 points.", "tag": "Axis Intelligence", "lang": "en" },
+        { "title_fr": "Statistiques IA 2026 : taille de march\u00e9, adoption et \u00e9cart de valeur", "title_original": "AI Statistics 2026: Market Size, Adoption, and the Value Gap", "url": "https://axis-intelligence.com/ai-statistics/", "description_fr": "Analyse de l'indice AIADI mesurant le d\u00e9couplage entre l'adoption massive de l'IA et son impact business r\u00e9el.", "tag": "Axis Intelligence", "lang": "en" }
       ]
     }
   }
