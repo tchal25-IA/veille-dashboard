@@ -2,59 +2,207 @@
   "generated_at": "2026-09-15T00:00:00Z",
   "categories": {
     "ecommerce": {
-      "summary": "L'IA generative et la personnalisation hyper-cibl\u00e9e dominent les tendances e-commerce 2026 : chatbots IA, paiements flexibles, commerce social et march\u00e9s de seconde main en forte croissance.",
+      "summary": "Les tendances e-commerce de la rentrée 2026 confirment la montée en puissance de la personnalisation par l'IA, du mobile-first et des niches à forte marge. Les guides sectoriels mettent en avant des micro-niches préqualifiées (121 identifiées pour septembre 2026) plutôt que des catégories généralistes déjà saturées. La donnée client et les avis restent des leviers de conversion majeurs.",
       "items": [
-        { "title": "DHL E-Commerce Trends Report 2026: Old rules don't apply", "url": "https://group.dhl.com/en/media-relations/press-releases/2026/dhl-ecommerce-trends-report-2026-old-rules-do-not-apply-in-the-age-of-ai.html", "description": "Chatbots IA, logistique durable et marketplaces de seconde main deviennent mainstream ; paiements flexibles et convenience pilotent la conversion.", "tag": "DHL" },
-        { "title": "Top 15 Ecommerce Trends 2026 (Digital Commerce 360)", "url": "https://www.linkedin.com/posts/gregormurray_top-15-ecommerce-trends-to-watch-in-2026-activity-7415083370600218624-Z1rp", "description": "Parcours d'achat pilot\u00e9s par la data et l'IA, hyper-personnalisation des recommandations produits.", "tag": "Digital Commerce 360" },
-        { "title": "Top 5 ecommerce trends you can't afford to miss in 2026", "url": "https://maropost.com/blog/ecommerce-trends-2026", "description": "IA personnalisation, commerce social, m-commerce et commerce unifi\u00e9 restent les priorit\u00e9s.", "tag": "Maropost" },
-        { "title": "21 Trending products to sell online in 2026", "url": "https://www.printful.com/blog/trending-products-to-sell", "description": "21 produits/cat\u00e9gories tendance : wall art, apparel oversize, et autres best-sellers identifi\u00e9s pour 2026.", "tag": "Printful" },
-        { "title": "Eight Trends Accelerating the Future of E-Commerce in 2026", "url": "https://www.publicissapient.com/resources/blog/future-ecommerce-trends", "description": "8 tendances : IA g\u00e9n\u00e9rative, personnalisation, media networks, durabilit\u00e9.", "tag": "Publicis Sapient" }
+        {
+          "title": "Produits et industries e-commerce tendances en 2026",
+          "url": "https://business.trustedshops.fr/blog/e-commerce-2026-produits-tendances-vendre-en-ligne",
+          "description": "Panorama des produits et catégories à fort potentiel pour maximiser trafic qualifié et conversion en 2026.",
+          "tag": "Trusted Shops"
+        },
+        {
+          "title": "15 tendances e-commerce incontournables en 2026",
+          "url": "https://skeepers.io/fr/blog/les-15-tendances-e-commerce-incontournables-en-2026-anticiper-pour-reussir/",
+          "description": "La personnalisation, la gestion de la data et le poids des avis clients redéfinissent la relation marques-consommateurs.",
+          "tag": "Skeepers"
+        },
+        {
+          "title": "Niches e-commerce 2026 : 15 exemples avec marges chiffrées",
+          "url": "https://speed-ecom.eu/blog/niches-ecommerce-rentables-2026-exemples/",
+          "description": "121 niches préqualifiées pour septembre 2026, avec méthode de sélection et marges estimées.",
+          "tag": "Speed-Ecom"
+        },
+        {
+          "title": "Les 11 tendances e-commerce à connaître pour 2026",
+          "url": "https://www.wizishop.fr/blog/tendances-ecommerce",
+          "description": "Tour d'horizon des évolutions attendues pour adapter les boutiques en ligne cette année.",
+          "tag": "WiziShop"
+        },
+        {
+          "title": "Top 35 des produits tendance à vendre en 2026",
+          "url": "https://www.hostinger.com/fr/tutoriels/produits-tendances-a-vendre/",
+          "description": "Sélection de produits rentables allant de la tech à la beauté pour se lancer rapidement.",
+          "tag": "Hostinger"
+        }
       ]
     },
     "apps_jeux": {
-      "summary": "ChatGPT et les assistants IA personnels dominent les classements d'apps, tandis que les jeux casual/midcore restent forts. Synergie claire : IA conversationnelle + usage quotidien remplace des apps utilitaires classiques.",
+      "summary": "Les jeux mobiles casual et hyper-accessibles (Subway Surfers, Balatro, Stardew Valley) continuent de dominer les téléchargements, tandis que les productions AAA mobiles s'appuient sur des licences fortes (Honor of Kings sous Unreal Engine 5, cross-play mobile/PC). Une tendance de fond émerge : les jeux « No Ads » comme argument marketing différenciant face à la lassitude publicitaire.",
       "items": [
-        { "title": "iPhone Top Games & Apps - App Store", "url": "https://apps.apple.com/us/iphone/charts", "description": "Top charts actuels : 1. ChatGPT, 2. Muse from Meta (agent IA perso), 3. Vinted (seconde main), 4. TikTok Pro.", "tag": "Apple App Store" },
-        { "title": "Most Popular Apps (2026) - Business of Apps", "url": "https://www.businessofapps.com/data/most-popular-apps/", "description": "ChatGPT app la plus t\u00e9l\u00e9charg\u00e9e au monde (770M en 2025) ; Block Blast jeu le plus t\u00e9l\u00e9charg\u00e9.", "tag": "Business of Apps" },
-        { "title": "App Store Top Charts Ranking for iPhone Apps", "url": "https://appfollow.io/rankings", "description": "Classement en temps r\u00e9el : ChatGPT, Muse, Vinted, TikTok Pro Events, Polymarket.", "tag": "AppFollow" },
-        { "title": "Top apps 2026: music, entertainment, travel, fitness, food", "url": "https://www.singular.net/blog/top-apps/", "description": "Spotify leader du divertissement (215M downloads) mais forte explosion sur d'autres cat\u00e9gories \u00e9mergentes.", "tag": "Singular" },
-        { "title": "Top Apps - AppMagic", "url": "https://appmagic.rocks/top-charts/apps/", "description": "Analyse Midcore/Casual Games Report H1 2026 ; croissance forte de studios comme Moon Active.", "tag": "AppMagic" }
+        {
+          "title": "Les meilleurs jeux mobiles en 2026 (iOS/Android)",
+          "url": "https://cryoskill.com/blogs/cryozone/les-meilleurs-jeux-mobiles-en-2026",
+          "description": "Subway Surfers reste l'un des jeux les plus téléchargés de l'histoire du mobile grâce à sa simplicité immédiate.",
+          "tag": "CryoSkill"
+        },
+        {
+          "title": "TOP 60 des jeux mobiles les plus téléchargés (2026)",
+          "url": "https://www.jetpunk.com/user-quizzes/2259797/top-60-des-jeux-mobiles-les-plus-telecharges-en-2026",
+          "description": "Classement de 60 jeux totalisant plus de 450 millions de téléchargements sur Google Play.",
+          "tag": "JetPunk"
+        },
+        {
+          "title": "Meilleurs jeux mobiles 2026 : 15 choix iOS & Android",
+          "url": "https://www.fixgamingchannel.com/best-mobile-games-2026-ios-android/",
+          "description": "Balatro, Stardew Valley et Call of Duty Mobile figurent parmi les picks marquants toutes catégories confondues.",
+          "tag": "FixGamingChannel"
+        },
+        {
+          "title": "Les 10 meilleurs jeux mobile été 2026",
+          "url": "https://dropreference.com/en/blog/guide/best-mobile-games-summer-2026-android-ios",
+          "description": "Honor of Kings, le MOBA le plus joué au monde, devient un action-RPG open-world sous Unreal Engine 5 avec cross-play.",
+          "tag": "DropReference"
+        },
+        {
+          "title": "Meilleurs jeux Android 2026 : 15 jeux à installer",
+          "url": "https://www.fixgamingchannel.com/best-android-games-2026/",
+          "description": "Le modèle « No Ads. Ever. » s'impose comme argument commercial fort face à la saturation publicitaire.",
+          "tag": "FixGamingChannel"
+        }
       ]
     },
     "reseaux_sociaux": {
-      "summary": "Les tendances edit/collab (photo-to-edit challenges) et le retour de formats nostalgiques (pickle-themed makeup, etc.) dominent Instagram/TikTok cette semaine. Mise \u00e0 jour hebdomadaire recommand\u00e9e.",
+      "summary": "Sur TikTok et Instagram, les formats audio viraux et les Reels courts continuent de structurer l'engagement, avec un renouvellement hebdomadaire des memes et sons tendance. Hootsuite souligne une montée du contenu généré par IA et de la « chaos culture » comme esthétique dominante, tandis que les marques adaptent leurs stratégies de carrousels et formats natifs.",
       "items": [
-        { "title": "Social Media Trends This Week", "url": "https://bluebearcreative.co/blog/social-media-trends-this-week/", "description": "Challenge tendance : poster une photo et demander \u00e0 sa communaut\u00e9 de l'\u00e9diter/remixer.", "tag": "TikTok/Instagram" },
-        { "title": "The latest Instagram trends (Sept 10, 2026)", "url": "https://socialbee.com/blog/instagram-trends/", "description": "Formats de contenu \u00e9mergents autour de la gestion de calendrier \u00e9ditorial et humour meta sur le m\u00e9tier de CM.", "tag": "SocialBee" },
-        { "title": "Instagram Trends: September 2026 (mise \u00e0 jour hebdo)", "url": "https://newengen.com/insights/instagram-trends/", "description": "Audios montants et formats qui percent avant le pic de popularit\u00e9.", "tag": "Newengen" },
-        { "title": "Ramd.am - Tiktok Trends September 2026", "url": "https://www.ramd.am/blog/trends-tiktok", "description": "Suivi crois\u00e9 TikTok/Meta pour identifier les tendances qui transf\u00e8rent entre plateformes.", "tag": "Ramdam" }
+        {
+          "title": "Discover new TikTok trends: August 2026",
+          "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
+          "description": "Les sons et memes viraux du moment sur TikTok, mis à jour régulièrement (ex. 'Melissaaaa', 'Liam tips').",
+          "tag": "Epidemic Sound"
+        },
+        {
+          "title": "Social Media Trends 2026",
+          "url": "https://www.hootsuite.com/research/social-trends",
+          "description": "Contenu généré par IA, culture du chaos et snowballing figurent parmi les grandes tendances sociales de l'année.",
+          "tag": "Hootsuite"
+        },
+        {
+          "title": "Instagram Trends: September 2026",
+          "url": "https://newengen.com/insights/instagram-trends/",
+          "description": "Audios tendance, formats Reels viraux et stratégies de carrousels mis à jour chaque semaine.",
+          "tag": "Newengen"
+        },
+        {
+          "title": "The latest Instagram trends (September 10, 2026)",
+          "url": "https://socialbee.com/blog/instagram-trends/",
+          "description": "Analyse hebdomadaire des tendances Instagram pour rester pertinent et engager son audience.",
+          "tag": "SocialBee"
+        },
+        {
+          "title": "20 Instagram trends defining success in 2026",
+          "url": "https://sproutsocial.com/insights/instagram-trends/",
+          "description": "Nouveaux formats et fonctionnalités Instagram à surveiller pour les marques en 2026.",
+          "tag": "Sprout Social"
+        }
       ]
     },
     "google_trends": {
-      "summary": "Explosion des recherches li\u00e9es \u00e0 l'IA (+7600% de croissance en volumes de recherche) et retour marqu\u00e9 du style vintage/DIY dans les recherches d\u00e9co et maison.",
+      "summary": "En septembre 2026, les recherches Google les plus fréquentes restent dominées par les grands services numériques (YouTube, Amazon, Gmail) et par ChatGPT, confirmant l'ancrage de l'IA générative dans les usages quotidiens. Les synergies avec l'e-commerce (Amazon) et le divertissement (YouTube, Wordle) restent fortes, ouvrant des opportunités de contenu croisé entre IA, achats en ligne et divertissement léger.",
       "items": [
-        { "title": "Trending Now - Google Trends", "url": "https://trends.google.com/trending", "description": "Suivi en direct des recherches tendance du jour, toutes cat\u00e9gories.", "tag": "Google Trends" },
-        { "title": "Google Trends Guide: What's Being Searched in 2026", "url": "https://sphereagency.com/articles/google-trends-tips", "description": "Wordle a \u00e9t\u00e9 la recherche la plus populaire de 2026 aux US ; fonctionnalit\u00e9 Hot Trends utile pour anticiper des pics.", "tag": "Sphere Agency" },
-        { "title": "GoogleTrends (@GoogleTrends) sur X", "url": "https://x.com/GoogleTrends", "description": "Recherches 'vintage' \u00e0 un niveau record : tapis tress\u00e9s, tables basses en bois, revival DIY.", "tag": "X/Twitter" },
-        { "title": "Google Trends For SEO In 2026: The Velocity Playbook", "url": "https://www.yotpo.com/blog/google-trends-seo-strategy/", "description": "D\u00e9finition 'Breakout' : terme ayant cru de plus de 5000% sur une p\u00e9riode donn\u00e9e \u2014 signal fort d'opportunit\u00e9.", "tag": "Yotpo" }
+        {
+          "title": "Trending Now - Google Trends",
+          "url": "https://trends.google.com/trending",
+          "description": "Outil officiel pour suivre en temps réel les recherches et sujets tendance du jour.",
+          "tag": "Google Trends"
+        },
+        {
+          "title": "Top Google Searches (September 2026)",
+          "url": "https://ahrefs.com/blog/top-google-searches/",
+          "description": "YouTube, Amazon, ChatGPT, Gmail et Wordle dominent le classement des recherches les plus populaires du mois.",
+          "tag": "Ahrefs"
+        },
+        {
+          "title": "Most Popular Google Searches - Top 100 (September 2026)",
+          "url": "https://backlinko.com/google-searches",
+          "description": "Classement complet des 100 requêtes les plus populaires, mêlant grands services numériques et besoins du quotidien.",
+          "tag": "Backlinko"
+        },
+        {
+          "title": "GOOGLE TRENDS 2026 : les données choc de l'année",
+          "url": "https://www.youtube.com/watch?v=BqwkjVyU9As",
+          "description": "Croissance de +7600% des recherches liées à l'IA sur l'année, un signal fort de l'adoption massive du secteur.",
+          "tag": "YouTube"
+        }
       ]
     },
     "business_ideas": {
-      "summary": "Les services propuls\u00e9s par l'IA, le commerce de proximit\u00e9/livraison locale et les produits num\u00e9riques restent les cr\u00e9neaux \u00e0 faible barri\u00e8re d'entr\u00e9e et forte marge les plus cit\u00e9s pour 2026.",
+      "summary": "Les idées de business qui émergent en 2026 misent sur les micro-niches à faible concurrence (bien-être, durabilité, consulting spécialisé) plutôt que sur des marchés généralistes saturés. Les plateformes numériques captant des marchés mal desservis et le consulting de niche répondant à des problèmes émergents sont particulièrement mis en avant, avec des besoins d'investissement initial réduits.",
       "items": [
-        { "title": "31 Low-Competition Business Ideas With High Margins in 2026", "url": "https://ideafloat.com/blog/low-competition-business-ideas-high-margins-2026/", "description": "31 id\u00e9es \u00e0 faible concurrence et marges \u00e9lev\u00e9es, co\u00fbt de d\u00e9marrage minimal.", "tag": "Ideafloat" },
-        { "title": "101 Business Ideas for 2026 (market size & launch plan)", "url": "https://greyjournal.net/hustle/grow/101-business-ideas-for-2026-market-value-90-day-launch-plan/", "description": "101 id\u00e9es avec taille de march\u00e9, niveau de concurrence et plan de lancement 90 jours.", "tag": "GreyJournal" },
-        { "title": "200+ Startup Ideas for 2026 \u2014 Real, AI-Validated, Profitable", "url": "https://startupideasdb.com/blog/startup-ideas-2026-validated-list", "description": "Id\u00e9es sourc\u00e9es depuis Reddit, Upwork, App Store reviews & Hacker News avec signaux de demande r\u00e9els.", "tag": "StartupIdeasDB" },
-        { "title": "Undersaturated Startup Ideas 2026: 10 Niches With Proof", "url": "https://preuve.ai/blog/undersaturated-startup-ideas-2026", "description": "10 niches sous-satur\u00e9es avec signal de faible concurrence et preuve de demande, bas\u00e9es sur 2463 signaux analys\u00e9s.", "tag": "Preuve.ai" }
+        {
+          "title": "Top small business ideas for 2026",
+          "url": "https://www.wolterskluwer.com/en/expert-insights/best-small-business-ideas",
+          "description": "Bien-être, tech et durabilité sont les secteurs mis en avant pour démarrer avec peu de capital.",
+          "tag": "Wolters Kluwer"
+        },
+        {
+          "title": "50 Business Ideas Positioned for Growth in 2026 and Beyond",
+          "url": "https://www.uschamber.com/co/start/business-ideas/top-trending-business-ideas",
+          "description": "Les idées gagnantes combinent demande claire du marché, scalabilité et capacité d'adaptation rapide.",
+          "tag": "US Chamber"
+        },
+        {
+          "title": "10 Innovative Business Ideas for 2026",
+          "url": "https://accountabilitynow.net/business-ideas-2026/",
+          "description": "Plateformes numériques captant des marchés mal desservis et consulting de niche pour problèmes émergents.",
+          "tag": "AccountabilityNow"
+        },
+        {
+          "title": "Niche Business Ideas: A Guide to Profitable Niche Business Selection",
+          "url": "https://inarlearn.com/niche-business-ideas-a-guide-to-profitable-niche-business-selection/",
+          "description": "Les niches offrent une concurrence plus faible, une fidélité client plus forte et de meilleurs taux de conversion.",
+          "tag": "Inar Learn"
+        },
+        {
+          "title": "10 Blog Niche Ideas That Actually Make Money in 2026",
+          "url": "https://lovable.dev/guides/profitable-blog-niches-2026",
+          "description": "Outils IA et santé animale figurent parmi les niches de blog les plus rentables identifiées cette année.",
+          "tag": "Lovable"
+        }
       ]
     },
     "news_ia": {
-      "summary": "L'actualit\u00e9 IA du jour reste domin\u00e9e par les sorties de mod\u00e8les des grands labs (OpenAI, Anthropic, Google, xAI, Meta) et les d\u00e9bats sur la r\u00e9gulation et l'expansion g\u00e9ographique de l'IA (Afrique notamment).",
+      "summary": "L'actualité IA de septembre 2026 est marquée par une vague de nouveaux modèles (Claude Fable 5.1, GPT-6 Astra, Gemini 3.8 Flash) et par des inquiétudes croissantes sur les capacités « critiques » de GPT-6 selon ses propres créateurs. Anthropic publie par ailleurs un rapport détaillant les usages malveillants détectés et contrés entre fin 2025 et août 2026, tandis que le renforcement de l'AI Act européen se poursuit.",
       "items": [
-        { "title": "Google News - Artificial Intelligence - Latest", "url": "https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvSEwyMHZNRzFyZWhJRlpXNHRSMElvQUFQAQ", "description": "L'Afrique pourrait-elle devenir la prochaine fronti\u00e8re de l'IA alors que US/Europe atteignent des limites ?", "tag": "Google News" },
-        { "title": "AI News & Artificial Intelligence | TechCrunch", "url": "https://techcrunch.com/category/artificial-intelligence/", "description": "Actualit\u00e9s continues sur l'IA/ML, les entreprises qui la construisent et les enjeux \u00e9thiques.", "tag": "TechCrunch" },
-        { "title": "AI News | Latest Headlines and Developments | Reuters", "url": "https://www.reuters.com/technology/artificial-intelligence/", "description": "Perc\u00e9es IA, tendances technologiques, r\u00e9gulation et enjeux business.", "tag": "Reuters" },
-        { "title": "AI Updates Today \u2014 Daily AI News & Model Releases", "url": "https://aitoolsrecap.com/daily-ai-news.aspx", "description": "Sorties de mod\u00e8les OpenAI, Anthropic, Google, xAI, Meta et changements de pricing.", "tag": "AIToolsRecap" }
+        {
+          "title": "September 2026 AI Model Updates: Launches, Pricing, and Architecture Trends",
+          "url": "https://af.net/realtime/september-2026-ai-model-updates-launches-pricing-and-architecture-trends/",
+          "description": "Lancement de Claude Fable 5.1, GPT-6 Astra et Gemini 3.8 Flash, avec de nouvelles grilles tarifaires et architectures.",
+          "tag": "af.net"
+        },
+        {
+          "title": "Detecting and countering misuse of AI: September 2026",
+          "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+          "description": "Anthropic détaille des cas d'usages malveillants de l'IA détectés et neutralisés entre décembre 2025 et août 2026.",
+          "tag": "Anthropic"
+        },
+        {
+          "title": "Un niveau « critique » atteint par GPT-6, inquiétude des créateurs",
+          "url": "https://www.futura-sciences.com/tech/intelligence-artificielle/",
+          "description": "Le nouveau GPT-6 franchit un seuil de capacités jugé critique, suscitant des inquiétudes jusque chez ses propres concepteurs.",
+          "tag": "Futura Sciences"
+        },
+        {
+          "title": "AI Updates Today (September 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "description": "Plus de 391 sorties de modèles suivies, illustrant un rythme de développement IA sans précédent.",
+          "tag": "llm-stats"
+        },
+        {
+          "title": "\"AI Act\" : l'UE renforce sa loi phare sur l'IA",
+          "url": "https://www.facebook.com/lesoirbe/videos/ai-act-lue-renforce-sa-loi-phare-sur-lia-/1603621914663269/",
+          "description": "Depuis début août 2026, le règlement européen sur l'IA entre dans une phase de renforcement très attendue.",
+          "tag": "Le Soir"
+        }
       ]
     }
   }
