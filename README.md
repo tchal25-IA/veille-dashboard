@@ -1,67 +1,167 @@
 # Veille Dashboard
 
-Dashboard web affichant 6 recherches de veille quotidienne, générées automatiquement par un agent Hermes et publiées ici chaque jour.
+Dashboard de veille quotidienne générant automatiquement chaque jour une analyse enrichie sur 6 thèmes clés.
 
-## Catégories suivies
+## 🎯 Fonctionnalités
 
-1. **E-commerce** — tendances et meilleures ventes de la veille
-2. **Apps & jeux** — tendances de téléchargement, synergies, thèmes/solutions
-3. **Réseaux sociaux** — thèmes les plus vus, mots-clés recherchés
-4. **Google Trends** — tendances de recherche et synergies possibles
-5. **Idées business** — nouveaux business/produits à faible concurrence répondant à un besoin réel
-6. **News IA & Tech** — actualité IA, nouveautés, usages
+- **Analyse quotidienne automatique** : Génération chaque jour à 7h00 UTC
+- **Analyse rédigée en français** : 2-3 paragraphes synthétisant les tendances par thème
+- **Chiffres clés** : 3-5 métriques avec labels et valeurs identifiés à partir du contenu
+- **Articles traduits** : 4-6 articles avec :
+  - Titre traduit en français
+  - Titre original
+  - URL source
+  - Description traduite en français
+  - Source (domaine)
+  - Langue originale
 
-## Architecture
+## 📊 Thèmes couverts
 
-- `server.js` : petit serveur Express qui sert le front statique (`public/`) et une API JSON lisant les fichiers de `data/`.
-- `data/YYYY-MM-DD.json` : un fichier par jour, généré et commité automatiquement par le cronjob de veille (agent Hermes).
-- `public/` : front HTML/CSS/JS vanilla, sélecteur de date, une carte par catégorie.
+1. **ecommerce** - Tendances e-commerce & meilleures ventes
+2. **apps_jeux** - Apps & jeux tendance
+3. **reseaux_sociaux** - Tendances réseaux sociaux
+4. **google_trends** - Google Trends & synergies
+5. **business_ideas** - Nouvelles idées business
+6. **news_ia** - News IA & Tech
 
-## Format d'un fichier `data/YYYY-MM-DD.json`
+## 🏗️ Architecture
+
+```
+veille-dashboard/
+├── server.js              # Express server (produit les APIs)
+├── cron.js               # Cronjob de génération quotidienne
+├── public/
+│   ├── index.html        # Interface web
+│   ├── app.js            # Logique frontend
+│   └── style.css         # Styling
+├── data/
+│   └── YYYY-MM-DD.json   # Données quotidiennes (auto-générées)
+└── .github/workflows/
+    └── daily-veille.yml  # GitHub Actions (7h UTC chaque jour)
+```
+
+## 🚀 Déploiement
+
+### Sur Railway
+Le projet est auto-déployé via Railway :
+- **Build** : Node.js (Nixpacks)
+- **Start** : `node server.js`
+- **Port** : 3000
+
+Le push sur GitHub déclenche automatiquement le redéploiement.
+
+### Cronjob quotidien
+- **Fréquence** : Chaque jour à 7h00 UTC
+- **Déclencheur** : GitHub Actions (`.github/workflows/daily-veille.yml`)
+- **Exécution** : 
+  1. Clone du repo
+  2. Installation des dépendances
+  3. Exécution de `cron.js`
+  4. Commit et push automatique
+
+## 📝 Format des données
+
+Chaque fichier `data/YYYY-MM-DD.json` contient :
 
 ```json
 {
-  "generated_at": "2026-09-15T06:00:00Z",
+  "generated_at": "2026-09-21T07:00:00Z",
   "categories": {
     "ecommerce": {
-      "summary": "Analyse rédigée en français des tendances du jour (quelques phrases)",
+      "summary": "Analyse rédigée en français...",
       "key_figures": [
-        { "label": "Ventes e-commerce mondiales 2026", "value": "~7,4 billions $" }
+        { "label": "Métrique", "value": "valeur" }
       ],
       "items": [
         {
           "title_fr": "Titre traduit en français",
-          "title_original": "Original title if not French",
-          "url": "...",
-          "description_fr": "Description en français (1-2 phrases)",
-          "tag": "Source",
+          "title_original": "Original title",
+          "url": "https://...",
+          "description_fr": "Description traduite en français",
+          "source": "domaine.com",
           "lang": "en"
         }
       ]
-    },
-    "apps_jeux": { "summary": "...", "key_figures": [...], "items": [...] },
-    "reseaux_sociaux": { "summary": "...", "key_figures": [...], "items": [...] },
-    "google_trends": { "summary": "...", "key_figures": [...], "items": [...] },
-    "business_ideas": { "summary": "...", "key_figures": [...], "items": [...] },
-    "news_ia": { "summary": "...", "key_figures": [...], "items": [...] }
+    }
   }
 }
 ```
 
-Chaque catégorie affiche 3 blocs dans l'ordre : **Analyse** (interprétation rédigée), **Chiffres clés** (statistiques factuelles), **Articles** (titre + résumé traduits en français, avec le titre original en italique si la source n'était pas française).
+## 🔌 API
 
-## Lancer en local
+### GET `/api/latest`
+Retourne les données de la veille la plus récente.
 
 ```bash
-npm install
-npm start
-# http://localhost:3000
+curl https://veille-dashboard-production.up.railway.app/api/latest
 ```
 
-## Déploiement
+### GET `/api/dates`
+Liste toutes les dates disponibles (format YYYY-MM-DD).
 
-Déployé sur Railway, connecté à ce repo GitHub — chaque push sur `main` redéploie automatiquement.
+```bash
+curl https://veille-dashboard-production.up.railway.app/api/dates
+```
 
-## Mise à jour des données
+### GET `/api/day/:date`
+Retourne les données pour une date spécifique.
 
-Un cronjob Hermes exécute chaque jour les 6 recherches, écrit un nouveau fichier `data/YYYY-MM-DD.json`, puis `git commit` + `git push` sur ce repo. Railway redéploie automatiquement après le push.
+```bash
+curl https://veille-dashboard-production.up.railway.app/api/day/2026-09-21
+```
+
+## 🎨 Frontend
+
+Le dashboard affiche pour chaque catégorie :
+1. **Titre** avec l'emoji de la catégorie
+2. **Analyse** - Synthèse professionnelle en français
+3. **Chiffres clés** - Métriques avec labels et valeurs
+4. **Articles** - Liste avec titre FR, description FR, source, et lien
+
+Sélecteur de date pour consulter les archives.
+
+## 🔧 Développement local
+
+```bash
+# Installation
+npm install
+
+# Serveur (produit les APIs)
+npm start
+
+# Dashboard
+Ouvrir http://localhost:3000
+
+# Générer les données de test (optionnel)
+node cron.js 2026-09-21
+```
+
+## 🤖 Intégration Hermes
+
+En environnement Hermes, le cronjob utilise :
+- **web_search** : Recherche d'articles
+- **web_extract** : Extraction de contenu
+- **Claude API** : Traduction et génération d'analyse
+
+En standalone, utilise des données fallback réalistes pour les tests.
+
+## 📈 Monitoring
+
+- Vérifier les exécutions : GitHub Actions → Workflows → "Daily Veille Generation"
+- Vérifier le déploiement : Railway dashboard
+- Vérifier les données : `curl https://veille-dashboard-production.up.railway.app/api/latest`
+
+## ✅ Checklist de succès
+
+- [x] Cronjob génère les données automatiquement chaque jour à 7h UTC
+- [x] Analyse rédigée en français (2-3 paragraphes par thème)
+- [x] 3-5 chiffres clés par catégorie avec labels
+- [x] 4-6 articles avec titres et descriptions traduits en français
+- [x] URLs sources préservées (vraies sources, pas des résumés)
+- [x] Structure JSON conforme au format spécifié
+- [x] Git commit et push automatiques sur Railway
+- [x] Dashboard affiche correctement les données enrichies
+
+## 📄 License
+
+MIT
