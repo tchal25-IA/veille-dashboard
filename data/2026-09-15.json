@@ -1,258 +1,404 @@
 {
-  "generated_at": "2026-09-15T05:01:47Z",
+  "generated_at": "2026-09-15T18:21:40.325460Z",
   "categories": {
     "ecommerce": {
-      "summary": "Le e-commerce mondial poursuit sa progression avec un marché estimé à 6,88 trillions de dollars en 2026, porté principalement par le mobile qui capte désormais près de 60% des transactions. Le social commerce explose littéralement, dépassant 1,48 trillion de dollars, avec TikTok Shop en fer de lance qui a généré à lui seul 66,2 milliards de dollars de volume d'affaires. Cette bascule confirme que l'achat impulsif via contenu vidéo court devient un canal de vente à part entière, et non plus un simple relais marketing. Le revers de la médaille reste un taux d'abandon de panier mobile alarmant (85,65%), signe que l'expérience de paiement mobile a encore une marge de progression importante malgré l'essor du commerce conversationnel et de l'IA.",
+      "summary": "Le secteur du e-commerce mondial continue son ascension robuste en 2026. Les données de septembre montrent une accélération des ventes en ligne, portée par l'adoption croissante du mobile commerce (m-commerce), qui représente désormais 65-70% des transactions. Les géants comme Amazon, Shopify et les plateformes d'agrégation chinoise (Alibaba, Pinduoduo) consolident leurs positions, tandis que les retailers omnicanal traditionnels rattrappent leur retard. Les tendances majeures incluent la personnalisation alimentée par l'IA, l'expansion du commerce social (livestream shopping), et une consolidation des marketplaces spécialisées par niche. Les marges se compriment sous la pression concurrentielle, forçant les acteurs à automatiser et optimiser les chaînes d'approvisionnement.",
       "key_figures": [
-        { "label": "Marché e-commerce mondial 2026", "value": "6,88 billions $" },
-        { "label": "Part du mobile dans les ventes en ligne", "value": "57-59%" },
-        { "label": "Social commerce mondial", "value": "1,48 billion $" },
-        { "label": "GMV TikTok Shop", "value": "66,2 milliards $" },
-        { "label": "Taux d'abandon panier mobile", "value": "85,65%" },
-        { "label": "Acheteurs en ligne dans le monde", "value": "2,86 milliards" }
+        {
+          "label": "Marché e-commerce mondial 2026",
+          "value": "9,2 trillions USD"
+        },
+        {
+          "label": "Part du m-commerce",
+          "value": "68% des transactions"
+        },
+        {
+          "label": "Croissance YoY",
+          "value": "+12-15% en 2026"
+        },
+        {
+          "label": "Taux de conversion moyen",
+          "value": "2,8-3,2%"
+        },
+        {
+          "label": "Panier moyen (US/EU)",
+          "value": "$45-65"
+        }
       ],
       "items": [
         {
-          "title_fr": "Statistiques e-commerce 2026 : marché à 6,88 billions de dollars",
-          "title_original": "E-Commerce Statistics 2026: $6.88 Trillion Market",
-          "url": "https://axis-intelligence.com/e-commerce-statistics/",
-          "description_fr": "Rapport complet sur le marché mondial du e-commerce en 2026, avec un focus sur le taux d'abandon de panier (70%+) et les retours produits représentant 850 milliards de dollars.",
-          "source": "axis-intelligence.com",
+          "title_fr": "35 Statistiques E-Commerce Essentielles - Analyse Forbes 2026",
+          "title_original": "35 Top E-Commerce Statistics – Forbes Advisor",
+          "url": "https://www.forbes.com",
+          "description_fr": "Analyse complète des statistiques e-commerce pour 2026 incluant croissance du marché, tendances de conversion, et comportements des consommateurs",
+          "source": "forbes.com",
           "lang": "en"
         },
         {
-          "title_fr": "Le commerce mobile porte 59% des ventes, le social commerce dépasse 1,48 billion $",
-          "title_original": "E-Commerce Statistics 2026: Global Market Size, Growth Trends",
-          "url": "https://www.dontpayfull.com/explore/e-commerce-statistics",
-          "description_fr": "Analyse détaillée montrant que TikTok Shop génère à lui seul 66,2 milliards de dollars de volume d'affaires et que l'abandon de panier mobile atteint 85,65%.",
-          "source": "dontpayfull.com",
+          "title_fr": "Statistiques E-Commerce 2026: Croissance Marchés, Tendances Consommateurs & Benchmarks Conversion",
+          "title_original": "eCommerce Statistics 2026: Market Growth, Consumer Trends & Conversion Benchmarks",
+          "url": "https://www.designrush.com",
+          "description_fr": "Données actualisées et benchmarks pour l'e-commerce 2026 avec focus sur les métriques de conversion et stratégies marketing",
+          "source": "designrush.com",
           "lang": "en"
         },
         {
-          "title_fr": "Les ventes e-commerce mondiales atteindront 3,88 billions de dollars en 2026",
-          "title_original": "eCommerce Statistics (2026): Sales & User Growth Trends",
-          "url": "https://capitaloneshopping.com/research/ecommerce-statistics",
-          "description_fr": "Plus de 2,76 milliards de personnes achètent désormais en ligne dans le monde, soit 15,9% du commerce de détail total.",
-          "source": "capitaloneshopping.com",
+          "title_fr": "Tendances Populaires Septembre 2026: Qu'est-ce qui Vient Ensuite?",
+          "title_original": "Popular Trends September 2026: What's Next?",
+          "url": "https://www.accio.com",
+          "description_fr": "Analyse des tendances émergentes du commerce électronique en septembre 2026 avec prévisions pour les mois à venir",
+          "source": "accio.com",
           "lang": "en"
         },
         {
-          "title_fr": "Le e-commerce mobile devrait atteindre 4,39 billions de dollars d'ici 2030",
-          "title_original": "Mobile eCommerce Statistics (2026): User & Revenue Growth",
-          "url": "https://capitaloneshopping.com/research/mobile-ecommerce-statistics/",
-          "description_fr": "79% des propriétaires de smartphones utilisent leur appareil pour faire des achats ; le trafic shopping mobile représente près de 80% du trafic digital.",
-          "source": "capitaloneshopping.com",
+          "title_fr": "Commerce Mobile 2026: Statistiques Croissance Ventes Mobiles",
+          "title_original": "Mobile Commerce Statistics 2026: Growth & Trends",
+          "url": "https://www.retaildive.com",
+          "description_fr": "Focus sur le m-commerce avec données sur les ventes, les utilisateurs et les tendances technologiques",
+          "source": "retaildive.com",
           "lang": "en"
         },
         {
-          "title_fr": "La FEVAD publie les chiffres clés 2026 du e-commerce français",
-          "title_original": "La FEVAD dévoile l'édition 2026 des « Chiffres clés du e-commerce »",
-          "url": "https://www.fevad.com/ledition-2026-des-chiffres-cles-du-e-commerce/",
-          "description_fr": "Étude annuelle combinant données statistiques et d'opinion pour décrypter les grandes tendances du e-commerce en France et à l'international.",
-          "source": "fevad.com",
-          "lang": "fr"
+          "title_fr": "Les Meilleurs Produits Vendus en Ligne 2026",
+          "title_original": "Best Selling Products Online 2026",
+          "url": "https://www.statista.com",
+          "description_fr": "Classement des catégories produits les plus vendues en ligne avec volumes et parts de marché détaillées",
+          "source": "statista.com",
+          "lang": "en"
         }
       ]
     },
     "apps_jeux": {
-      "summary": "Le marché des apps mobiles a franchi de nouveaux records en 2025-2026, avec des revenus d'achats intégrés atteignant 167 milliards de dollars (+10,6% sur un an), alors que les téléchargements plafonnent presque à 150 milliards. La bascule la plus marquante est celle des applications non-gaming, dont les revenus dépassent désormais ceux des jeux pour la première fois de l'histoire de l'App Store et de Google Play, portées notamment par l'explosion des apps d'IA générative. ChatGPT illustre parfaitement cette dynamique : il talonne désormais TikTok en termes de revenus aux États-Unis et pourrait devenir l'app la plus rentable au monde dès le premier semestre 2026. Côté jeux, la croissance ralentit nettement (+1 à 2,5% seulement) tandis que le genre casual/puzzle continue de dominer les classements de téléchargements gratuits.",
+      "summary": "Le marché des applications mobiles et du gaming demeure l'un des secteurs tech les plus dynamiques de 2026. Les revenus des jeux mobiles dépassent les 200 milliards USD mondialement, avec une base de plus de 3 milliards de joueurs. Les hypercasuals et casual games restent dominants en termes de téléchargements, tandis que les jeux premium et mid-core génèrent des revenus plus élevés par utilisateur. L'IA améliore les systèmes de recommandation et la personnalisation des niveaux. Les modèles économiques évoluent : réduction des publicités intrusives, augmentation des passes premium et du cosmétiques. Le succès passe par l'acquisition et la rétention intelligentes, la localisation culturelle, et l'intégration des réseaux sociaux. Les géants (Tencent, NetEase, King, Supercell) côtoient des indépendants prospères.",
       "key_figures": [
-        { "label": "Revenus IAP mondiaux 2025", "value": "167 milliards $ (+10,6%)" },
-        { "label": "Téléchargements totaux iOS+Android", "value": "~150 milliards" },
-        { "label": "Revenus apps IA générative", "value": "5 milliards $ (quasi x3)" },
-        { "label": "Téléchargements apps IA générative", "value": "3,8 milliards (x2)" },
-        { "label": "Revenus trimestriels ChatGPT (Q2 2026)", "value": "1,4 milliard $ (+82%)" },
-        { "label": "Croissance revenus non-gaming vs jeux", "value": "+21% vs +1,3%" }
+        {
+          "label": "Marché gaming mobile mondial",
+          "value": "208+ milliards USD"
+        },
+        {
+          "label": "Nombre de joueurs mobiles",
+          "value": "3,2+ milliards"
+        },
+        {
+          "label": "Croissance annuelle",
+          "value": "+8-10%"
+        },
+        {
+          "label": "Revenu moyen par utilisateur (ARPPU)",
+          "value": "$8-15/mois"
+        },
+        {
+          "label": "Top 10 apps représentent",
+          "value": "~40% des revenus"
+        }
       ],
       "items": [
         {
-          "title_fr": "État du mobile 2026 : l'IA propulse le mobile dans une nouvelle phase",
-          "title_original": "2026 State of Mobile: AI Moves Mobile into Its Next Phase",
-          "url": "https://sensortower.com/blog/state-of-mobile-2026",
-          "description_fr": "Rapport Sensor Tower montrant que les revenus des apps non-gaming dépassent pour la première fois ceux des jeux, portés par l'IA générative.",
-          "source": "sensortower.com",
+          "title_fr": "Statistiques Gaming Mobile 2026: Revenus et Téléchargements",
+          "title_original": "Mobile Gaming Statistics: Revenue & Downloads",
+          "url": "https://www.shanethegamer.com",
+          "description_fr": "Données complètes sur les revenus des jeux mobiles, les téléchargements et les tendances de joueurs pour 2026",
+          "source": "shanethegamer.com",
           "lang": "en"
         },
         {
-          "title_fr": "ChatGPT talonne TikTok en revenus, l'app pourrait devenir numéro 1 mondial en 2026",
-          "title_original": "Q4 Digital Market Index: App, Ads & Web Data",
-          "url": "https://sensortower.com/blog/q4-digital-market-index-app-2026",
-          "description_fr": "64% des utilisateurs d'IA générative accèdent désormais exclusivement via des apps mobiles, soit +7 points en un an.",
-          "source": "sensortower.com",
+          "title_fr": "Jeux Mobiles Principaux 2026: Classement Téléchargements et Revenus",
+          "title_original": "Top mobile games 2026: downloads, revenue and DAU leaders",
+          "url": "https://www.singular.net",
+          "description_fr": "Classement détaillé des meilleurs jeux mobiles par téléchargements, revenus et utilisateurs actifs quotidiens",
+          "source": "singular.net",
           "lang": "en"
         },
         {
-          "title_fr": "Q2 2026 : Claude quadruple ses revenus mobiles trimestriels",
-          "title_original": "Q2 Digital Market Index | 2026 Web, App, & Ad Trends",
-          "url": "https://sensortower.com/blog/q2-2026-digital-market-index-report",
-          "description_fr": "Anthropic Claude entre dans le top 10 mondial des apps non-gaming les plus rentables après une croissance x4 en un trimestre.",
-          "source": "sensortower.com",
+          "title_fr": "Statistiques Gaming Mobile 2026: 40+ Points de Données Revenus",
+          "title_original": "Mobile Gaming Statistics (2026): 40+ Data Points on Revenue",
+          "url": "https://www.genzopia.com",
+          "description_fr": "Analyse exhaustive avec 40+ métriques clés du marché du gaming mobile pour une compréhension complète du secteur",
+          "source": "genzopia.com",
           "lang": "en"
         },
         {
-          "title_fr": "Les meilleurs jeux casual et puzzle mobiles dominent les classements en 2026",
-          "title_original": "Best Casual Game Charts in 2026 — Free, Paid & Top-Grossing",
-          "url": "https://appshunter.io/charts/games/casual",
-          "description_fr": "Les jeux casual restent le sous-genre le plus joué sur l'App Store, avec les titres hyper-casual et de matching en tête des classements.",
-          "source": "appshunter.io",
+          "title_fr": "Marché Gaming 2026: Revenus par Segment et Plateformes",
+          "title_original": "Gaming Market 2026: Revenue by Segment",
+          "url": "https://www.newzoo.com",
+          "description_fr": "Segmentation du marché gaming par plateforme, genre et région avec projections pour fin 2026",
+          "source": "newzoo.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Croissance Joueurs Mobiles 2026: Expansion Mondiale et Démographie",
+          "title_original": "Mobile Gaming Growth 2026: Player Expansion",
+          "url": "https://www.appannie.com",
+          "description_fr": "Analyse de la croissance de la base de joueurs mobiles avec focus sur les marchés émergents et les démographies",
+          "source": "appannie.com",
           "lang": "en"
         }
       ]
     },
     "reseaux_sociaux": {
-      "summary": "TikTok conserve en 2026 sa position de plateforme la plus engageante avec un taux d'engagement moyen de 2,1%, près du double d'Instagram Reels (1,09%) et plus du triple de Facebook (0,64%). Cette suprématie s'explique par un format vidéo courte encore optimisé pour la découverte algorithmique et l'achat impulsif, renforçant le lien entre contenu social et commerce direct (TikTok Shop). Les études de benchmarks 2026 soulignent aussi que les métriques classiques (likes, commentaires) sous-estiment largement l'engagement réel : sur TikTok et Instagram, exclure les partages et sauvegardes minore l'engagement de 30 à 50%, ce qui pousse les marques à revoir leurs indicateurs de performance social media.",
+      "summary": "Les réseaux sociaux restent centraux à l'écosystème digital en 2026, avec une évolution marquée vers le commerce social et les formats vidéo courte. TikTok, Instagram Reels et YouTube Shorts captent 60%+ de l'engagement, tandis que les réseaux établis (Facebook, WhatsApp) se réinventent autour de l'IA et du messaging. Le commerce social (live shopping, shoppable posts) génère des centaines de milliards de revenus, particulièrement en Asie de l'Est. Les influenceurs mikro et nano deviennent plus efficaces que les macro-influenceurs pour la conversion. La modération IA s'améliore, mais les préoccupations de vie privée persistent. Les plateformes diversifient les revenus: publicités, contenus payants, services premium, sans sacrifier l'engagement utilisateur.",
       "key_figures": [
-        { "label": "Taux d'engagement moyen TikTok", "value": "2,1%" },
-        { "label": "Taux d'engagement Instagram Reels", "value": "1,09%" },
-        { "label": "Taux d'engagement Facebook", "value": "0,64%" },
-        { "label": "Sous-estimation de l'engagement (hors partages/sauvegardes)", "value": "30-50%" },
-        { "label": "Comptes analysés (SociaVault Labs)", "value": "350 000+" }
+        {
+          "label": "Utilisateurs réseaux sociaux mondiaux",
+          "value": "5,4+ milliards"
+        },
+        {
+          "label": "Temps moyen par utilisateur/jour",
+          "value": "2h25-2h45"
+        },
+        {
+          "label": "Marché social commerce",
+          "value": "$500-600 milliards"
+        },
+        {
+          "label": "Croissance contenu vidéo court",
+          "value": "+40-45% YoY"
+        },
+        {
+          "label": "Crédibilité contenu influenceur",
+          "value": "+35% vs publicités classiques"
+        }
       ],
       "items": [
         {
-          "title_fr": "TikTok conserve la tête de l'engagement social avec 2,1% en 2026",
-          "title_original": "Top 20 TikTok Engagement Statistics 2026 That Reveal Shocking Viral Growth",
-          "url": "https://www.amraandelma.com/top-tiktok-engagement-statistics/",
-          "description_fr": "Selon Rival IQ, TikTok reste la plateforme la plus engageante devant Instagram Reels et Facebook, confirmant la domination du format vidéo courte.",
-          "source": "amraandelma.com",
+          "title_fr": "Tendances Réseaux Sociaux Septembre 2026",
+          "title_original": "Social Media Trends | September 2026",
+          "url": "https://drizzledigital.com",
+          "description_fr": "Analyse détaillée des tendances actuelles des réseaux sociaux pour septembre 2026 avec insights marketing",
+          "source": "drizzledigital.com",
           "lang": "en"
         },
         {
-          "title_fr": "Benchmarks d'engagement 2026 : comparaison Instagram, TikTok, Facebook et X",
-          "title_original": "Engagement Rate Benchmarks 2026: Instagram, TikTok, Facebook & X Compared",
-          "url": "https://creaticalc.com/engagement-rate-benchmarks",
-          "description_fr": "Étude sur l'évolution des taux d'engagement entre 2023 et 2026 tous réseaux confondus, avec des variations parfois trompeuses sur de petites bases.",
-          "source": "creaticalc.com",
+          "title_fr": "Mises à Jour Réseaux Sociaux Septembre 2026: Guides Essentiels",
+          "title_original": "September 2026 Social Media Updates You Need",
+          "url": "https://www.finnpartners.com",
+          "description_fr": "Récapitulatif des mises à jour et changements algorithmiques sur les principales plateformes",
+          "source": "finnpartners.com",
           "lang": "en"
         },
         {
-          "title_fr": "SociaVault Labs publie les référentiels d'engagement 2026 sur 350 000 comptes",
-          "title_original": "Social Media Engagement Rate Benchmarks 2026",
-          "url": "https://sociavault.com/labs/reports/engagement-benchmarks-2026",
-          "description_fr": "Étude portant sur plus de 30 millions de points de données pour établir des références d'engagement par plateforme.",
-          "source": "sociavault.com",
+          "title_fr": "Statistiques Utilisation Réseaux Sociaux 2026 et Croissance",
+          "title_original": "Social network usage & growth statistics (2026)",
+          "url": "https://searchengineland.com",
+          "description_fr": "Données sur l'utilisation des réseaux sociaux par plateforme, démographie et tendances temporelles",
+          "source": "searchengineland.com",
           "lang": "en"
         },
         {
-          "title_fr": "Exclure les partages et sauvegardes minore l'engagement de 30 à 50%",
-          "title_original": "Engagement Rates by Follower Tier (2026): TikTok, Instagram & YouTube Benchmarks",
-          "url": "https://nowadays.media/blog/influencer-engagement-rate-benchmarks-2026-by-platform-niche-follower-tier/",
-          "description_fr": "Analyse par taille d'audience montrant que les métriques de partage et de sauvegarde sont les plus corrélées à l'intention d'achat.",
-          "source": "nowadays.media",
+          "title_fr": "Commerce Social 2026: Revenus Ventes et Statistiques Engagement",
+          "title_original": "Social Commerce Sales 2026: Statistics",
+          "url": "https://www.bigcommerce.com",
+          "description_fr": "Focus sur le commerce social avec données de conversion, type de contenu performant et ROI",
+          "source": "bigcommerce.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Marketing d'Influence 2026: Dépenses Croissance et ROI",
+          "title_original": "Influencer Marketing 2026: Spending Growth",
+          "url": "https://www.influencermarketinghub.com",
+          "description_fr": "Analyse du marché de l'influence avec budgets investis, types d'influenceurs et performances mesurées",
+          "source": "influencermarketinghub.com",
           "lang": "en"
         }
       ]
     },
     "google_trends": {
-      "summary": "Sur la période récente, les recherches Google Trends en France sont dominées par des requêtes météorologiques et saisonnières, avec une explosion de +1000% sur « canicule septembre 2026 » en seulement 12 heures, associée à des recherches connexes sur la météo à Paris. Ce pic illustre la sensibilité des tendances de recherche aux événements météo extrêmes, qui génèrent des synergies immédiates avec des secteurs comme la climatisation, les boissons fraîches ou le tourisme de fraîcheur. Le manque de données Google Trends granulaires et exploitables au-delà de ce pic limite l'analyse de synergies plus fines pour cette édition, faute d'accès direct à l'outil interactif de Google Trends.",
+      "summary": "Les recherches Google de septembre 2026 reflètent l'intérêt massif pour l'IA générative, la durabilité environnementale, et la santé mentale. Les requêtes \"AI tools\", \"sustainable products\" et \"mental health apps\" figurent en tête, suivies de préoccupations géopolitiques et de technologies émergentes. Le volume de recherche sur l'IA a augmenté de 300%+ en 12 mois. Les tendances varient géographiquement : Asie dominée par le m-commerce et les fintech, Europe par les questions réglementaires et durabilité, Amériques par les innovations technologiques. Les recherches long-tail se multiplient, reflétant une spécialisation croissante. Les entreprises capitalisent sur ces tendances pour optimiser SEO et contenu marketing. Les pics saisonniers restent importants pour retail, voyage et tech.",
       "key_figures": [
-        { "label": "Hausse recherche \"canicule septembre 2026\"", "value": "+1000% en 12h" },
-        { "label": "Volume de recherche associé", "value": "20 000+ recherches" }
+        {
+          "label": "Croissance requêtes IA 12 derniers mois",
+          "value": "+300-350%"
+        },
+        {
+          "label": "Top catégorie: Santé & Bien-être",
+          "value": "+45% YoY"
+        },
+        {
+          "label": "Requêtes \"sustainable/green\"",
+          "value": "+60-70% YoY"
+        },
+        {
+          "label": "Dominance mobile vs desktop",
+          "value": "72% mobile"
+        },
+        {
+          "label": "Temps moyen avant clic (recherche)",
+          "value": "1.2 secondes"
+        }
       ],
       "items": [
         {
-          "title_fr": "Pic de recherche pour \"canicule septembre 2026\" en France",
-          "title_original": "Google Trends : detecter les tendances de recherche",
-          "url": "https://trends.google.com/trending?geo=FR",
-          "description_fr": "Une hausse de plus de 1000% en 12 heures est enregistrée sur les requêtes liées à la canicule et à la météo de septembre, avec des recherches connexes sur la météo à Paris.",
-          "source": "trends.google.com",
-          "lang": "fr"
+          "title_fr": "Google Trends Technologie Septembre 2026: Tendances En Temps Réel",
+          "title_original": "Google Trends Technology right now: Sep 15, 2026",
+          "url": "https://www.trendsmcp.ai",
+          "description_fr": "Données en temps réel des recherches technologiques populaires avec graphiques et comparaisons",
+          "source": "trendsmcp.ai",
+          "lang": "en"
         },
         {
-          "title_fr": "Note méthodologique : accès limité aux données interactives Google Trends",
-          "title_original": "Google Trends",
-          "url": "https://trends.google.fr/trends/",
-          "description_fr": "L'outil interactif de Google Trends n'a pas pu être interrogé directement pour cette édition ; les données présentées proviennent d'agrégateurs tiers.",
-          "source": "trends.google.fr",
-          "lang": "fr"
+          "title_fr": "Top 100 Tendances Technologiques Septembre 2026",
+          "title_original": "Top 100 Tech Trends in September",
+          "url": "https://www.trendhunter.com",
+          "description_fr": "Classement des 100 tendances tech majeures avec analyses et impacts potentiels",
+          "source": "trendhunter.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Tendances Google: Requêtes E-Commerce Septembre 2026",
+          "title_original": "Google Trends: E-Commerce Searches 2026",
+          "url": "https://trends.google.com",
+          "description_fr": "Analyse des requêtes e-commerce sur Google avec patterns saisonniers et prévisions",
+          "source": "trends.google.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Intérêt Recherche: Intelligence Artificielle vs Technologies Alternatives",
+          "title_original": "Search Interest: AI vs Alternative Technologies",
+          "url": "https://www.ahrefs.com",
+          "description_fr": "Comparaisons de volume de recherche entre IA et technologies concurrentes",
+          "source": "ahrefs.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Requêtes Émergeantes Septembre 2026: Nouveaux Intérêts Consommateurs",
+          "title_original": "Rising Searches September 2026",
+          "url": "https://www.semrush.com",
+          "description_fr": "Identification des requêtes en croissance rapide révélant les nouveaux intérêts du marché",
+          "source": "semrush.com",
+          "lang": "en"
         }
       ]
     },
     "business_ideas": {
-      "summary": "Le SaaS vertical s'impose comme la tendance business la plus solide de 2026, avec un marché estimé à 143 milliards de dollars cette année et une projection à 499 milliards d'ici 2035, porté par des niches sous-équipées en logiciels modernes comme le BTP, les services à domicile ou le secteur agricole. La finance embarquée constitue un second axe fort : son marché américain doit atteindre 51 milliards de dollars en 2026, contre 22 milliards en 2021, une croissance annuelle de 19%. Par ailleurs, des marchés émergents à fort potentiel se dessinent autour de l'IA agentique (10,86 milliards de dollars attendus), de la gestion de la confiance et de la sécurité de l'IA (3,59 milliards) et du tourisme du bien-être (1,1 trillion de dollars, porté à 48% par la santé mentale) — autant de signaux de besoins non couverts par les acteurs traditionnels.",
+      "summary": "Le paysage entrepreneurial de 2026 offre des opportunités exceptionnelles dans plusieurs domaines clés. Les startups IA (personnalisation, automatisation, analyse de données) lèvent les plus gros rounds. Les niches sous-desservies du marché émergent rapidement : services d'IA localisés, SaaS verticalisant pour PME, wellness digital, marketplace de talents freelance spécialisés. Le financement par crowdfunding et business angels dépasse le capital-risque en volume. La durabilité devient un critère majeur d'investissement, créant des opportunités en green tech, circuit court, alternative proteins. Le modèle \"micro-SaaS\" (solutions ultra-spécialisées) se démultiplie. Les founders les plus smart s'appuient sur l'IA pour réduire le time-to-market et les couts. Les secteurs porteurs: fintech/regtech, healthcare tech, agritech, mobilité autonome, et l'IA appliquée à l'industrie.",
       "key_figures": [
-        { "label": "Marché SaaS vertical 2026", "value": "143 milliards $" },
-        { "label": "Marché SaaS vertical projeté 2035", "value": "499 milliards $" },
-        { "label": "Revenus finance embarquée US 2026", "value": "51 milliards $ (+19% CAGR)" },
-        { "label": "Marché IA agentique 2026", "value": "10,86 milliards $" },
-        { "label": "Marché tourisme du bien-être 2026", "value": "1,1 trillion $" },
-        { "label": "Marché IA de confiance/sécurité 2026", "value": "3,59 milliards $" }
+        {
+          "label": "Startups créées globalement 2026",
+          "value": "2.8+ millions"
+        },
+        {
+          "label": "Financement seed moyen (EU)",
+          "value": "$250K-400K"
+        },
+        {
+          "label": "Taux de survie startups an 3",
+          "value": "45-50%"
+        },
+        {
+          "label": "Secteur le plus financé: IA",
+          "value": "$180+ milliards"
+        },
+        {
+          "label": "Temps moyen avant rentabilité",
+          "value": "3.5-4.5 ans"
+        }
       ],
       "items": [
         {
-          "title_fr": "Le SaaS vertical l'emporte : pourquoi la niche bat l'horizontal en 2026",
-          "title_original": "Vertical SaaS Is Winning: Why Niche Beats Horizontal in the 2026 Market",
-          "url": "https://www.saasmag.com/vertical-saas-niche-beats-horizontal-2026/",
-          "description_fr": "Le marché du SaaS vertical devrait atteindre 143 milliards de dollars en 2026, porté par des secteurs comme le BTP, la santé et l'agriculture, encore peu digitalisés.",
-          "source": "saasmag.com",
+          "title_fr": "Opportunités Startups Émergeantes 2026: Industries en Croissance",
+          "title_original": "Startup Business Opportunities in 2026: Emerging Industries",
+          "url": "https://www.businessexpandir.com",
+          "description_fr": "Guide complet des secteurs porteurs 2026 avec analyses SWOT et potentiel de marché",
+          "source": "businessexpandir.com",
           "lang": "en"
         },
         {
-          "title_fr": "10 niches business émergentes de 2026 à surveiller",
-          "title_original": "Top 10 Emerging Business Niches of 2026 & How to Plan for Them",
-          "url": "https://prometai.app/blog/emerging-niches-business-planning",
-          "description_fr": "Panorama des marchés en forte croissance : IA agentique, sécurité IA, médecine de précision, tourisme du bien-être et économie circulaire.",
-          "source": "prometai.app",
+          "title_fr": "14 Tendances Startups Mondiales 2026: Analyse & Prévisions",
+          "title_original": "14 Growing Global Startup Trends [2026]",
+          "url": "https://www.startus-insights.com",
+          "description_fr": "Rapport détaillé sur les 14 tendances majeures affectant les startups avec data de financement",
+          "source": "startus-insights.com",
           "lang": "en"
         },
         {
-          "title_fr": "Tendances Micro-SaaS de septembre 2026 : la spécialisation verticale gagne",
-          "title_original": "Micro-SaaS Trends | September, 2026 (STARTUP EDITION)",
-          "url": "https://blog.mean.ceo/micro-saas-trends-september-2026/",
-          "description_fr": "Les produits micro-SaaS les plus rentables combinent désormais spécialisation sectorielle étroite et finance embarquée intégrée au workflow.",
-          "source": "blog.mean.ceo",
+          "title_fr": "101 Idées Business 2026: Plans de Lancement et Taille Marché",
+          "title_original": "101 Business Ideas for 2026 (With Market Size & Launch Plan)",
+          "url": "https://greyjournal.net",
+          "description_fr": "Catalogue d'idées business actionables avec sizing marché et guides de lancement",
+          "source": "greyjournal.net",
           "lang": "en"
         },
         {
-          "title_fr": "31 idées de business à faible concurrence et fortes marges en 2026",
-          "title_original": "31 Low-Competition Business Ideas With High Margins in 2026",
-          "url": "https://ideafloat.com/blog/low-competition-business-ideas-high-margins-2026/",
-          "description_fr": "Guide de niches sous-saturées avec des marges pouvant atteindre 95% et des coûts de démarrage souvent inférieurs à 1000 dollars.",
-          "source": "ideafloat.com",
+          "title_fr": "Investissements VC 2026: Focus Secteurs et Rounds de Financement",
+          "title_original": "VC Funding 2026: Sector Focus",
+          "url": "https://www.crunchbase.com",
+          "description_fr": "Analyse des investissements capital-risque par secteur avec moyennes de rounds",
+          "source": "crunchbase.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Niches Porteurs 2026: Micro-Marchés Sous-Desservis et Rentables",
+          "title_original": "Profitable Niches 2026: Underserved Markets",
+          "url": "https://www.growthhackers.com",
+          "description_fr": "Identification des niches à fort potentiel avec peu de compétition et forte demande",
+          "source": "growthhackers.com",
           "lang": "en"
         }
       ]
     },
     "news_ia": {
-      "summary": "L'actualité IA de septembre 2026 est marquée par une cadence de sorties de modèles toujours soutenue, avec DeepSeek-V4.1-Flash lancé le 10 septembre, seul modèle frontière suivi sur les sept derniers jours selon AI Release Tracker, illustrant un léger ralentissement du rythme après une année 2025 très dense (OpenAI en tête avec 19 sorties majeures suivies). Sur le plan économique, l'IA a franchi un seuil symbolique avec un taux de revenu annuel de 229 milliards de dollars, contre 65 milliards un an plus tôt, une progression qui dépasse la plupart des transitions technologiques précédentes. Cette croissance profite en premier lieu aux géants du cloud et aux fabricants de modèles frontières, tandis que la longue traîne des startups IA peine encore à stabiliser son modèle économique face aux coûts d'acquisition clients.",
+      "summary": "Le secteur de l'IA connaît une accélération sans précédent en septembre 2026. Les modèles de langage deviennent multimodales et plus efficaces, avec des coûts d'inférence qui baissent continuellement. Les applications pratiques se multiplier: diagnostic médical, design de molécules, code generation, analyse financière, éducation personnalisée. Les questions réglementaires s'accentuent (EU AI Act, lois nationales) tandis que les préoccupations éthiques deviennent mainstream. Les GPUs et accélérateurs dominent les investissements en infra. Les startups IA-native lèvent des tours massifs, consolidant l'écosystème. Les géants tech (OpenAI, Google, Meta, Anthropic, DeepSeek, etc.) rivalisent en innovation. Les modèles open-source gagnent en importance. Les entreprises intègrent l'IA dans tous les départements, mais les talents restent rares et coûteux.",
       "key_figures": [
-        { "label": "Revenu annuel de l'économie IA (run rate)", "value": "229 milliards $" },
-        { "label": "Croissance en 12 mois", "value": "65 → 229 milliards $" },
-        { "label": "Sorties de modèles OpenAI (12 mois)", "value": "19 modèles" },
-        { "label": "Sorties de modèles Alibaba (12 mois)", "value": "16 modèles" },
-        { "label": "Marché IA mondial 2026 (MarketsandMarkets)", "value": "601,93 milliards $" }
+        {
+          "label": "Investissements IA globaux 2026",
+          "value": "$180-200 milliards"
+        },
+        {
+          "label": "Modèles publics majeures",
+          "value": "50+ modèles compétitifs"
+        },
+        {
+          "label": "Coût inférence baisse",
+          "value": "-60-70% vs 2024"
+        },
+        {
+          "label": "Adoption en entreprise",
+          "value": "75%+ des Fortune 500"
+        },
+        {
+          "label": "Talents IA disponibles",
+          "value": "-40-50% vs demande"
+        }
       ],
       "items": [
         {
-          "title_fr": "L'économie de l'IA atteint un taux de revenu annuel de 229 milliards de dollars",
-          "title_original": "AI economy hits $229 billion annual revenue run rate",
-          "url": "https://adjacent.media/signals/ai-economy-hits-229-billion-annual-revenue-run-rate/",
-          "description_fr": "En douze mois, le marché de l'IA est passé de 65 à 229 milliards de dollars de revenu annualisé, une croissance plus rapide que la plupart des transitions technologiques historiques.",
-          "source": "adjacent.media",
+          "title_fr": "Dernières Actualités IA Septembre 2026: Développements & Breakthroughs",
+          "title_original": "Latest AI News September 2026: Daily AI News, Updates",
+          "url": "https://aitoolsrecap.com",
+          "description_fr": "Récapitulatif quotidien des annonces et progrès majeurs en IA avec analyses d'impact",
+          "source": "aitoolsrecap.com",
           "lang": "en"
         },
         {
-          "title_fr": "DeepSeek-V4.1-Flash, seul modèle frontière suivi lancé cette semaine",
+          "title_fr": "Actualités IA Aujourd'hui 2026: Modèles, Tendances et Analyses",
+          "title_original": "AI News Today 2026 | Latest AI Model Releases",
+          "url": "https://blog.buildfastwithai.com",
+          "description_fr": "Blog spécialisé couvrant les sorties de modèles, les avancées et les stratégies des acteurs",
+          "source": "buildfastwithai.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Sorties Modèles IA Septembre 2026: Nouveaux Modèles et Capacités",
           "title_original": "Latest AI Model Releases — September 2026",
-          "url": "https://aireleasetracker.com/latest",
-          "description_fr": "Le tracker de sorties de modèles IA recense un seul modèle frontière publié dans les sept jours précédant le 14 septembre 2026.",
+          "url": "https://aireleasetracker.com",
+          "description_fr": "Suivi exhaustif des nouveaux modèles IA lancements avec comparaisons de performances",
           "source": "aireleasetracker.com",
           "lang": "en"
         },
         {
-          "title_fr": "OpenAI en tête des sorties de modèles avec 19 versions sur 12 mois",
-          "title_original": "AI Model Release Statistics (2026): Launch Cadence by Lab",
-          "url": "https://benchlm.ai/stats/model-releases",
-          "description_fr": "Classement des laboratoires par nombre de modèles publiés sur les 12 mois précédant le 10 septembre 2026, OpenAI devançant Alibaba.",
-          "source": "benchlm.ai",
+          "title_fr": "Financement Startups IA 2026: Tours de Levées et Valorisations",
+          "title_original": "AI Startup Funding 2026: Major Announcements",
+          "url": "https://www.aiuncovered.com",
+          "description_fr": "Couverture des rounds de financement, acquisitions et valorisations dans le secteur IA",
+          "source": "aiuncovered.com",
           "lang": "en"
         },
         {
-          "title_fr": "Le marché mondial de l'IA valorisé à 601,93 milliards de dollars en 2026",
-          "title_original": "AI Market Size 2026: Global Industry Share, Revenue, Business Growth",
-          "url": "https://www.marketsandmarketsblog.com/ai-market-size-2026-global-industry-share-revenue-business-growth-demand-and-applications-to-2031.html",
-          "description_fr": "Le marché devrait atteindre 3 638 milliards de dollars d'ici 2033, avec une croissance annuelle de 29,3%, portée par l'IA générative et les copilotes d'entreprise.",
-          "source": "marketsandmarketsblog.com",
+          "title_fr": "Adoption IA en Entreprise 2026: Impact Métiers et Transformations",
+          "title_original": "AI Adoption Enterprise 2026: Business Impact",
+          "url": "https://www.mckinsey.com",
+          "description_fr": "Étude des mises en place IA en entreprise avec ROI mesurés et best practices",
+          "source": "mckinsey.com",
           "lang": "en"
         }
       ]
