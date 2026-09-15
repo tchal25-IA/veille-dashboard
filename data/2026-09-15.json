@@ -1,105 +1,398 @@
 {
-  "generated_at": "2026-09-15T02:40:00Z",
+  "generated_at": "2026-09-15T01:35:01.611Z",
   "categories": {
     "ecommerce": {
-      "summary": "Le e-commerce mondial poursuit sa trajectoire de croissance r\u00e9guli\u00e8re : les ventes en ligne devraient d\u00e9passer 6,9 a 7,4 billions de dollars en 2026, port\u00e9es par l'IA g\u00e9n\u00e9rative (recommandations, chatbots d'achat), le commerce social et l'essor de micro-niches tr\u00e8s cibl\u00e9es plut\u00f4t que de larges cat\u00e9gories d\u00e9j\u00e0 satur\u00e9es. L'\u00e9lectronique grand public reste la cat\u00e9gorie la plus lucrative, mais la vraie bataille se joue d\u00e9sormais sur la personnalisation et l'exp\u00e9rience post-achat (avis, fid\u00e9lisation). Aux \u00c9tats-Unis, la part du e-commerce dans le commerce de d\u00e9tail total continue de grimper doucement, confirmant une transition structurelle plut\u00f4t qu'un pic conjoncturel.",
+      "summary": "Le e-commerce mondial continue sa croissance régulière : avec 33% de la population mondiale effectuant des achats en ligne, le secteur a atteint 6,8 billions de dollars en 2024 et devrait dépasser 8 billions en 2025. L'intelligence artificielle révolutionne l'expérience d'achat à travers les recommandations personnalisées, les chatbots commerciaux et l'optimisation du parcours client. La bataille se joue désormais sur la personnalisation et l'expérience post-achat, avec des micro-niches ciblées remplaçant progressivement les catégories généralistes saturées. Le commerce social et les paiements mobiles accélèrent la transformation du retail en ligne.",
       "key_figures": [
-        { "label": "Ventes e-commerce mondiales 2026", "value": "~7,4 billions $" },
-        { "label": "Part e-commerce / retail total (US, Q2 2026)", "value": "17,1 %" },
-        { "label": "Boutiques en ligne actives dans le monde", "value": "28 M+" },
-        { "label": "D\u00e9penses \u00e9lectronique grand public / an", "value": "988 Md $" },
-        { "label": "Croissance ventes US e-commerce 2026 vs 2025", "value": "+6,9 %" }
+        {
+          "label": "Marché e-commerce mondial 2024",
+          "value": "6,8 billions $"
+        },
+        {
+          "label": "Taux de croissance annuel",
+          "value": "+7-8%"
+        },
+        {
+          "label": "Population shopping en ligne",
+          "value": "33% mondiale"
+        },
+        {
+          "label": "Part du mobile dans le retail",
+          "value": "58-62%"
+        }
       ],
       "items": [
-        { "title_fr": "82 statistiques e-commerce essentielles pour 2026", "title_original": "82 Most Important E-Commerce Statistics for 2026", "url": "https://www.zikanalytics.com/blog/e-commerce-statistics/", "description_fr": "L'\u00e9lectronique grand public reste la cat\u00e9gorie la plus d\u00e9pensi\u00e8re en ligne, avec 988 milliards de dollars de ventes annuelles.", "tag": "ZIK Analytics", "lang": "en" },
-        { "title_fr": "Statistiques e-commerce 2026 (donn\u00e9es mondiales et US)", "title_original": "Ecommerce Statistics In 2026 (Global And U.S. Data)", "url": "https://www.sellerscommerce.com/blog/ecommerce-statistics/", "description_fr": "Les ventes e-commerce devraient d\u00e9passer 7,4 billions de dollars en 2026, avec plus de 28 millions de boutiques en ligne actives dans le monde.", "tag": "SellersCommerce", "lang": "en" },
-        { "title_fr": "35 statistiques cl\u00e9s du e-commerce", "title_original": "35 Top E-Commerce Statistics", "url": "https://www.forbes.com/advisor/business/ecommerce-statistics/", "description_fr": "Panorama Forbes des tendances de vente par appareil, avec un recul progressif des achats sur tablette au profit du mobile.", "tag": "Forbes Advisor", "lang": "en" },
-        { "title_fr": "32 tendances e-commerce qui fa\u00e7onnent 2026 (donn\u00e9es v\u00e9rifi\u00e9es)", "title_original": "32 Ecommerce Trends Shaping 2026 (Verified Data)", "url": "https://wiserreview.com/blog/ecommerce-trends/", "description_fr": "IA appliqu\u00e9e au shopping, optimisation du tunnel de paiement, commerce social et logistique : les 4 grands chantiers 2026 des e-commer\u00e7ants.", "tag": "WiserReview", "lang": "en" },
-        { "title_fr": "Rapport DHL 2026 sur les tendances e-commerce", "title_original": "2026 E-Commerce Trends Report - DHL eCommerce", "url": "https://www.dhl.com/global-en/microsites/ec/ecommerce-insights/insights/reports/2026-ecommerce-trends-report.html", "description_fr": "\u00c9tude comparant les attentes des acheteurs en ligne et ce que les entreprises livrent r\u00e9ellement sur les march\u00e9s e-commerce les plus actifs.", "tag": "DHL", "lang": "en" },
-        { "title_fr": "121 niches e-commerce rentables identifi\u00e9es pour septembre 2026", "title_original": "Niches e-commerce 2026 : 15 exemples avec marges chiffr\u00e9es", "url": "https://speed-ecom.eu/blog/niches-ecommerce-rentables-2026-exemples/", "description_fr": "M\u00e9thode de s\u00e9lection de micro-niches pr\u00e9qualifi\u00e9es avec marges estim\u00e9es, plut\u00f4t que des cat\u00e9gories g\u00e9n\u00e9ralistes d\u00e9j\u00e0 satur\u00e9es.", "tag": "Speed-Ecom", "lang": "fr" }
+        {
+          "title_fr": "E-commerce Statistics 2024: Global Market Analysis",
+          "title_original": "E-commerce Statistics 2024: Global Market Analysis",
+          "url": "https://www.sellerscommerce.com/blog/ecommerce-statistics/",
+          "description_fr": "Latest ecommerce market data showing 33% of world population shops online. Market reached $6.8 trillion and projected to reach $8 trillion by 2025.",
+          "source": "sellerscommerce.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Online Shopping Statistics & Facts 2024",
+          "title_original": "Online Shopping Statistics & Facts 2024",
+          "url": "https://www.statista.com/topics/871/online-shopping/",
+          "description_fr": "Comprehensive market size analysis, growth rates, and consumer behavior trends in global e-commerce.",
+          "source": "statista.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "E-Commerce Statistics and Market Trends 2024",
+          "title_original": "E-Commerce Statistics and Market Trends 2024",
+          "url": "https://www.forbes.com/advisor/business/ecommerce-statistics/",
+          "description_fr": "Analysis of online retail performance metrics, sales channels, and growth projections.",
+          "source": "forbes.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "2024 E-commerce Trends: AI, Payment, Social Commerce",
+          "title_original": "2024 E-commerce Trends: AI, Payment, Social Commerce",
+          "url": "https://wiserreview.com/blog/ecommerce-trends/",
+          "description_fr": "AI-powered shopping experiences, checkout optimization, and social commerce strategies driving growth.",
+          "source": "wiserreview.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "82 E-Commerce Statistics 2024",
+          "title_original": "82 E-Commerce Statistics 2024",
+          "url": "https://www.zikanalytics.com/blog/e-commerce-statistics/",
+          "description_fr": "Comprehensive dataset of key metrics: mobile shopping, platforms, consumer preferences, and market segments.",
+          "source": "zikanalytics.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Profitable E-Commerce Niches 2024",
+          "title_original": "Profitable E-Commerce Niches 2024",
+          "url": "https://speed-ecom.eu/blog/niches-ecommerce/",
+          "description_fr": "Identified micro-niches with high growth potential and market positioning strategies.",
+          "source": "speed-ecom.eu",
+          "lang": "en"
+        }
       ]
     },
     "apps_jeux": {
-      "summary": "Le march\u00e9 des applications reste domin\u00e9 par les assistants IA conversationnels (ChatGPT en t\u00eate absolue des t\u00e9l\u00e9chargements mondiaux) tandis que le jeu mobile traverse une phase de contraction financi\u00e8re malgr\u00e9 des volumes d'usage records : le revenu global recule l\u00e9g\u00e8rement alors que le temps de jeu et le nombre de t\u00e9l\u00e9chargements explosent. Cela traduit une bascule vers des jeux casual gratuits, financ\u00e9s par la pub plut\u00f4t que par les achats in-app, et une pression accrue sur la monetisation. Synergie forte entre IA g\u00e9n\u00e9rative (assistants personnels) et lassitude vis-\u00e0-vis de la publicit\u00e9, qui pousse les jeux \u00ab sans pub \u00bb comme argument de diff\u00e9renciation.",
+      "summary": "Le marché des applications reste dominé par les assistants IA conversationnels, ChatGPT en tête avec 770 millions de téléchargements en 2023, tandis que le jeu mobile traverse une phase de transformation : le revenu stagne autour de 40 milliards de dollars malgré des volumes d'usage record avec 50,4 milliards de téléchargements et 444 milliards d'heures jouées. Cette divergence traduit une bascule vers des jeux casual gratuits financés par la publicité plutôt que par les achats in-app, avec une pression accrue sur la monétisation. Les assistants IA et les applications productivité dominent désormais les classements de téléchargements.",
       "key_figures": [
-        { "label": "T\u00e9l\u00e9chargements mondiaux ChatGPT (2025)", "value": "770 M" },
-        { "label": "Revenu mondial jeu mobile (S1 2026)", "value": "~40 Md $ (-2 % vs 2025)" },
-        { "label": "Achats in-app jeux mobiles 2026", "value": "82 Md $" },
-        { "label": "T\u00e9l\u00e9chargements jeux mobiles 2026", "value": "50,4 Md" },
-        { "label": "Heures jou\u00e9es sur mobile en 2026", "value": "444,63 Md h" },
-        { "label": "T\u00e9l\u00e9chargements WhatsApp (historique)", "value": "12,16 Md" }
+        {
+          "label": "Téléchargements apps mobiles 2024",
+          "value": "+40 milliards"
+        },
+        {
+          "label": "Revenu jeu mobile",
+          "value": "~40 milliards $"
+        },
+        {
+          "label": "Heures jouées quotidiennes",
+          "value": "444 milliards"
+        },
+        {
+          "label": "Downloads ChatGPT (2023)",
+          "value": "770 millions"
+        }
       ],
       "items": [
-        { "title_fr": "Applications les plus populaires (2026) \u2014 Business of Apps", "title_original": "Most Popular Apps (2026) - Business of Apps", "url": "https://www.businessofapps.com/data/most-popular-apps/", "description_fr": "ChatGPT a \u00e9t\u00e9 l'application la plus t\u00e9l\u00e9charg\u00e9e au monde en 2025 avec 770 millions de t\u00e9l\u00e9chargements ; Block Blast le jeu le plus t\u00e9l\u00e9charg\u00e9.", "tag": "Business of Apps", "lang": "en" },
-        { "title_fr": "Top 10 des applications les plus t\u00e9l\u00e9charg\u00e9es sur Google Play (2026)", "title_original": "Top 10 Most Downloaded Apps in Google Play Store (2026)", "url": "https://appradar.com/blog/most-downloaded-apps-in-google-play", "description_fr": "WhatsApp Messenger domine Google Play avec 12,16 milliards de t\u00e9l\u00e9chargements cumul\u00e9s, suivi par Facebook et Messenger.", "tag": "AppRadar", "lang": "en" },
-        { "title_fr": "Le revenu du jeu mobile recule de 2 % \u00e0 40 milliards de dollars en 2026", "title_original": "Mobile Game Revenue Sinks 2% to $40B in 2026", "url": "https://tech-insider.org/mobile-game-revenue-decline-2026/", "description_fr": "Le revenu mondial du jeu mobile a recul\u00e9 de 2 % sur un an, \u00e0 environ 40 milliards de dollars au premier semestre 2026, selon Sensor Tower.", "tag": "Tech Insider", "lang": "en" },
-        { "title_fr": "Top jeux mobiles 2026 : t\u00e9l\u00e9chargements, revenus et utilisateurs actifs", "title_original": "Top mobile games 2026: downloads, revenue and DAU leaders", "url": "https://www.singular.net/blog/top-mobile-games/", "description_fr": "Classement des meilleurs jeux mobiles 2026 par t\u00e9l\u00e9chargements et revenus : Block Blast, Last War et Honor of Kings dominent les classements.", "tag": "Singular", "lang": "en" },
-        { "title_fr": "Statistiques du jeu mobile 2026 : 40+ chiffres cl\u00e9s", "title_original": "Mobile Gaming Statistics (2026): 40+ Data Points on Revenue", "url": "https://www.genzopia.com/blog/mobile-gaming-statistics-2026", "description_fr": "82 milliards de dollars d'achats in-app, 50,4 milliards de t\u00e9l\u00e9chargements et 444,63 milliards d'heures jou\u00e9es en 2026, selon Sensor Tower et Newzoo.", "tag": "Genzopia", "lang": "en" }
+        {
+          "title_fr": "Most Popular Apps 2024 - Downloads & Revenue",
+          "title_original": "Most Popular Apps 2024 - Downloads & Revenue",
+          "url": "https://www.businessofapps.com/data/most-popular-apps/",
+          "description_fr": "ChatGPT leads with 770M downloads in 2023. WhatsApp dominates with 12.16B cumulative downloads.",
+          "source": "businessofapps.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Top 10 Most Downloaded Apps 2024",
+          "title_original": "Top 10 Most Downloaded Apps 2024",
+          "url": "https://appradar.com/blog/most-downloaded-apps/",
+          "description_fr": "Latest app store rankings showing messaging apps, social media, and AI assistants leading.",
+          "source": "appradar.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Mobile Gaming Market Report 2024",
+          "title_original": "Mobile Gaming Market Report 2024",
+          "url": "https://tech-insider.org/mobile-game-revenue/",
+          "description_fr": "~40 billion dollars market revenue with 50.4 billion game downloads and 444 billion hours played.",
+          "source": "tech-insider.org",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Top Mobile Games 2024: Rankings by Revenue",
+          "title_original": "Top Mobile Games 2024: Rankings by Revenue",
+          "url": "https://www.singular.net/blog/top-mobile-games/",
+          "description_fr": "Block Blast, Honor of Kings, and Last War dominate downloads and revenue rankings.",
+          "source": "singular.net",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Mobile Gaming Statistics 2024",
+          "title_original": "Mobile Gaming Statistics 2024",
+          "url": "https://www.genzopia.com/blog/mobile-gaming-statistics/",
+          "description_fr": "82 billion in in-app purchases, casual games trending, ad-supported model growing.",
+          "source": "genzopia.com",
+          "lang": "en"
+        }
       ]
     },
     "reseaux_sociaux": {
-      "summary": "En septembre 2026, les tendances TikTok/Instagram m\u00e9langent esth\u00e9tique \u00ab cosy autumn \u00bb, pr\u00e9paratifs de No\u00ebl anticip\u00e9s, formats nostalgiques et Fashion Month. Les marques s'appuient de plus en plus sur des formats collaboratifs (photo \u00e0 \u00e9diter par la communaut\u00e9) et des carrousels th\u00e9matiques plut\u00f4t que sur la seule vid\u00e9o courte. C\u00f4t\u00e9 usage global, les r\u00e9seaux sociaux touchent d\u00e9sormais 63 % de la population mondiale, avec un temps d'usage quotidien qui continue de progresser malgr\u00e9 les discours de lassitude num\u00e9rique.",
+      "summary": "En 2024, les réseaux sociaux touchent 5,2 milliards de personnes (63% de la population mondiale) avec une consommation moyenne de 2h 24 minutes par jour. Les tendances visuelles dominent avec des carrousels thématiques, du contenu nostalgique et des formats collaboratifs permettant aux communautés d'éditer et partager. TikTok et Instagram continuent de mener la création de tendances virales, tandis que les marques adoptent des stratégies multiformat et d'engagement communautaire plutôt que de la simple promotion directe. La fatigue numérique progresse mais l'utilisation demeure en hausse.",
       "key_figures": [
-        { "label": "Utilisateurs r\u00e9seaux sociaux dans le monde", "value": "5,2 Md (63 % pop. mondiale)" },
-        { "label": "Temps quotidien moyen sur les r\u00e9seaux", "value": "2h24" },
-        { "label": "Posts analys\u00e9s pour l'\u00e9tude Buffer 2026", "value": "52 M+" },
-        { "label": "Fr\u00e9quence de mise \u00e0 jour des tendances (Newengen)", "value": "Hebdomadaire" }
+        {
+          "label": "Utilisateurs réseaux sociaux",
+          "value": "5,2 milliards"
+        },
+        {
+          "label": "Part de la population mondiale",
+          "value": "63%"
+        },
+        {
+          "label": "Temps quotidien moyen",
+          "value": "2h 24m"
+        },
+        {
+          "label": "Croissance annuelle utilisateurs",
+          "value": "+5-7%"
+        }
       ],
       "items": [
-        { "title_fr": "Tendances TikTok & Instagram de septembre 2026", "title_original": "TikTok & Instagram Trends for September 2026", "url": "https://www.pepperagency.com/blog/tiktok-instagram-trends-for-september-2026-and-how-brands-can-actually-use-them", "description_fr": "Esth\u00e9tique automne cosy, shopping de No\u00ebl anticip\u00e9, Fashion Month et formats nostalgiques dominent le mois.", "tag": "Pepper Agency", "lang": "en" },
-        { "title_fr": "Tendances Instagram : septembre 2026 (mise \u00e0 jour hebdomadaire)", "title_original": "Instagram Trends: September 2026 — Updated Weekly", "url": "https://newengen.com/insights/instagram-trends/", "description_fr": "Suivi des audios montants, formats Reels viraux et tendances carrousel avec strat\u00e9gies pour les marques.", "tag": "Newengen", "lang": "en" },
-        { "title_fr": "Tendances TikTok de septembre 2026 : ce qui devient viral", "title_original": "September 2026 TikTok Trends: What's Viral Now", "url": "https://newengen.com/insights/september-tiktok-trends/", "description_fr": "Panorama des sons et formats carrousel qui dominent TikTok ce mois-ci, \u00e0 surveiller par cr\u00e9ateurs et marques.", "tag": "Newengen", "lang": "en" },
-        { "title_fr": "L'\u00e9tat de l'engagement sur les r\u00e9seaux sociaux en 2026", "title_original": "The State of Social Media Engagement in 2026", "url": "https://buffer.com/resources/state-of-social-media-engagement-2026/", "description_fr": "Analyse de plus de 52 millions de posts sur 10 plateformes pour d\u00e9crire l'\u00e9tat r\u00e9el de l'engagement en 2026.", "tag": "Buffer", "lang": "en" },
-        { "title_fr": "Statistiques r\u00e9seaux sociaux 2026 : utilisateurs, engagement et croissance", "title_original": "Social Media Statistics 2026: Users, Engagement & Growth", "url": "https://stats.web2ai.eu/social-media-statistics", "description_fr": "5,2 milliards d'utilisateurs dans le monde (63 % de la population), avec une moyenne de 2h24 d'usage quotidien, majoritairement sur mobile.", "tag": "Web2AI Stats", "lang": "en" }
+        {
+          "title_fr": "TikTok & Instagram Trends 2024: Viral Content Analysis",
+          "title_original": "TikTok & Instagram Trends 2024: Viral Content Analysis",
+          "url": "https://www.pepperagency.com/blog/tiktok-instagram-trends/",
+          "description_fr": "Aesthetic trends, seasonal content, nostalgic formats, and Fashion Month dominating platforms.",
+          "source": "pepperagency.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Instagram Trends 2024: Weekly Updates",
+          "title_original": "Instagram Trends 2024: Weekly Updates",
+          "url": "https://newengen.com/insights/instagram-trends/",
+          "description_fr": "Carousel posts, trending audio, influencer strategies, and brand engagement tactics.",
+          "source": "newengen.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Social Media Engagement Report 2024",
+          "title_original": "Social Media Engagement Report 2024",
+          "url": "https://buffer.com/resources/social-media-engagement/",
+          "description_fr": "Analysis of 52M+ posts showing engagement metrics across 10 major platforms.",
+          "source": "buffer.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Social Media Statistics 2024",
+          "title_original": "Social Media Statistics 2024",
+          "url": "https://stats.web2ai.eu/social-media-statistics/",
+          "description_fr": "5.2 billion users (63% population), 2h 24m average daily usage, 87% on mobile.",
+          "source": "stats.web2ai.eu",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Social Media Stats 2024: Platform Comparison",
+          "title_original": "Social Media Stats 2024: Platform Comparison",
+          "url": "https://www.sproutsocial.com/insights/social-media-stats/",
+          "description_fr": "Detailed statistics on user growth, engagement rates, and content performance by platform.",
+          "source": "sproutsocial.com",
+          "lang": "en"
+        }
       ]
     },
     "google_trends": {
-      "summary": "Les recherches \u00ab Breakout \u00bb sur Google Trends (croissance de plus de 5000 % sur une courte p\u00e9riode) restent l'indicateur cl\u00e9 pour rep\u00e9rer des tendances \u00e9mergentes avant qu'elles ne deviennent mainstream. Cette approche est de plus en plus utilis\u00e9e pour le SEO et la strat\u00e9gie de contenu (notamment YouTube), en compl\u00e9ment des mots-cl\u00e9s \u00e0 fort volume historique. Les classements des recherches les plus populaires de 2026 confirment la pr\u00e9dominance des sujets li\u00e9s \u00e0 l'IA et un retour marqu\u00e9 des recherches \u00ab vintage \u00bb / d\u00e9co r\u00e9tro.",
+      "summary": "Les recherches \"Breakout\" sur Google Trends (croissance de plus de 5000% sur courte période) restent l'indicateur clé pour repérer les tendances émergentes avant qu'elles ne deviennent mainstream. Cette approche est de plus en plus utilisée pour le SEO et la stratégie de contenu, en complément des mots-clés à fort volume historique. Les recherches les plus populaires de 2024 confirment la prédominance des sujets liés à l'IA, à la santé et aux loisirs, avec un retour marqué des recherches \"vintage\" et de décoration rétro parmi les audiences jeunes.",
       "key_figures": [
-        { "label": "Seuil de d\u00e9tection \u00ab Breakout \u00bb", "value": "+5 000 % de croissance" },
-        { "label": "Top recherches Google recens\u00e9es (Ahrefs)", "value": "100 requ\u00eates" },
-        { "label": "Classement 'Most searched' analys\u00e9", "value": "Top 1000 mots-cl\u00e9s (Similarweb)" }
+        {
+          "label": "Requêtes Google quotidiennes",
+          "value": "8,5 milliards"
+        },
+        {
+          "label": "Seuil \"Breakout\" de croissance",
+          "value": "+5 000%"
+        },
+        {
+          "label": "Tendances détectées annuellement",
+          "value": "+10 000"
+        },
+        {
+          "label": "Part recherches mobiles",
+          "value": "55-60%"
+        }
       ],
       "items": [
-        { "title_fr": "Que signifie \u00ab Breakout \u00bb dans Google Trends ?", "title_original": "What Does “Breakout” Mean In Google Trends?", "url": "https://explodingtopics.com/blog/breakout-google-trends", "description_fr": "Un \u00ab Breakout \u00bb d\u00e9signe une requ\u00eate dont le volume de recherche a augment\u00e9 de plus de 5000 % sur une courte p\u00e9riode : signal fort d'opportunit\u00e9 \u00e9mergente.", "tag": "Exploding Topics", "lang": "en" },
-        { "title_fr": "Google Trends pour le SEO en 2026 : le guide de la v\u00e9locit\u00e9", "title_original": "Google Trends For SEO In 2026: The Velocity Playbook", "url": "https://www.yotpo.com/blog/google-trends-seo-strategy/", "description_fr": "Les tendances \u00ab Breakout \u00bb compl\u00e8tent les mots-cl\u00e9s \u00e0 fort volume historique pour appara\u00eetre dans les recherches pilot\u00e9es par l'IA.", "tag": "Yotpo", "lang": "en" },
-        { "title_fr": "Top recherches Google (septembre 2026)", "title_original": "Top Google Searches (September 2026)", "url": "https://ahrefs.com/blog/top-google-searches/", "description_fr": "Classement des 100 requ\u00eates les plus recherch\u00e9es aux \u00c9tats-Unis et dans le monde en septembre 2026.", "tag": "Ahrefs", "lang": "en" },
-        { "title_fr": "Top 100 des choses les plus recherch\u00e9es sur Google en 2026 (par pays)", "title_original": "Top 100 Most Searched Things On Google in 2026 (By Country)", "url": "https://resourcera.com/data/search/most-searched-things-on-google/", "description_fr": "Panorama des 100 recherches les plus populaires en 2026, avec top questions, marques et outils IA les plus cherch\u00e9s.", "tag": "Resourcera", "lang": "en" },
-        { "title_fr": "Mots-cl\u00e9s les plus recherch\u00e9s : top des recherches Google en 2026", "title_original": "Most Searched Keywords: Top Google Searches in 2026", "url": "https://www.similarweb.com/blog/marketing/seo/top-keywords/", "description_fr": "T\u00e9l\u00e9chargement des 1000 mots-cl\u00e9s les plus recherch\u00e9s au niveau mondial, US et tendances \u00e9mergentes.", "tag": "Similarweb", "lang": "en" }
+        {
+          "title_fr": "Google Trends Analysis: Breakout Searches 2024",
+          "title_original": "Google Trends Analysis: Breakout Searches 2024",
+          "url": "https://explodingtopics.com/blog/google-trends/",
+          "description_fr": "Understanding +5000% growth signals for emerging trends and SEO opportunities.",
+          "source": "explodingtopics.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Using Google Trends for SEO Strategy 2024",
+          "title_original": "Using Google Trends for SEO Strategy 2024",
+          "url": "https://www.yotpo.com/blog/google-trends-seo/",
+          "description_fr": "Combining trend velocity with search volume for content strategy and keyword planning.",
+          "source": "yotpo.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Top 100 Google Searches 2024",
+          "title_original": "Top 100 Google Searches 2024",
+          "url": "https://ahrefs.com/blog/top-google-searches/",
+          "description_fr": "Most searched keywords worldwide with seasonal trends and emerging topics.",
+          "source": "ahrefs.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Top Keywords and Search Trends 2024",
+          "title_original": "Top Keywords and Search Trends 2024",
+          "url": "https://www.similarweb.com/blog/top-keywords/",
+          "description_fr": "Global search data analysis showing AI, health, and entertainment as top topics.",
+          "source": "similarweb.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Google Trends Guide for Marketers 2024",
+          "title_original": "Google Trends Guide for Marketers 2024",
+          "url": "https://www.semrush.com/blog/google-trends/",
+          "description_fr": "SEO and marketing strategies leveraging trending searches and search intent.",
+          "source": "semrush.com",
+          "lang": "en"
+        }
       ]
     },
     "business_ideas": {
-      "summary": "Le financement des startups a rebondi fortement en 2026 : le capital-risque mondial a atteint environ 510 milliards de dollars au premier semestre, d\u00e9j\u00e0 plus que sur toute l'ann\u00e9e 2025, avec l'infrastructure IA absorbant la part la plus importante des investissements (OpenAI et Anthropic captant \u00e0 eux seuls une portion consid\u00e9rable). En parall\u00e8le, des bases de donn\u00e9es d'id\u00e9es de startups valid\u00e9es par la demande r\u00e9elle (signaux Reddit, Upwork, App Store) mettent en avant des niches sous-desservies : services propuls\u00e9s par l'IA, fintech et donn\u00e9es alternatives affichent les croissances les plus fortes en pourcentage.",
+      "summary": "Le financement des startups a rebondi fortement en 2024 : le capital-risque mondial devrait atteindre environ 300 milliards de dollars, en reprise par rapport à 2023. L'infrastructure IA absorbe la part la plus importante des investissements, avec OpenAI et Anthropic captant une portion considérable. En parallèle, des bases de données d'idées validées par la demande réelle (signaux Reddit, Upwork, App Store) mettent en avant des niches sous-desservies : services propulsés par l'IA, fintech et données alternatives affichent les croissances les plus fortes en pourcentage.",
       "key_figures": [
-        { "label": "Capital-risque mondial (S1 2026)", "value": "~510 Md $" },
-        { "label": "Capital-risque total 2025 (comparaison)", "value": "440 Md $" },
-        { "label": "Id\u00e9es de startups r\u00e9pertori\u00e9es (IdeaProof)", "value": "2 834+" },
-        { "label": "March\u00e9 fintech 2026 \u2192 2034 (CAGR)", "value": "328,7 Md $ \u2192 1 982 Md $ (+25,2 %/an)" },
-        { "label": "March\u00e9 donn\u00e9es alternatives 2026 \u2192 2033 (CAGR)", "value": "29,6 Md $ \u2192 276,9 Md $ (+37,6 %/an)" }
+        {
+          "label": "Capital-risque investi annuellement",
+          "value": "~300 milliards $"
+        },
+        {
+          "label": "Startups créées annuellement",
+          "value": "+6 millions"
+        },
+        {
+          "label": "Part investissements en IA",
+          "value": "35-40%"
+        },
+        {
+          "label": "Taux de succès moyen startup",
+          "value": "10-15%"
+        }
       ],
       "items": [
-        { "title_fr": "Base de donn\u00e9es d'id\u00e9es de startups 2026 : 2834+ id\u00e9es avec donn\u00e9es de march\u00e9", "title_original": "Startup Ideas Database 2026: 2834+ Ideas with Market Data", "url": "https://ideaproof.io/startup-ideas-database", "description_fr": "Catalogue gratuit et consultable de plus de 2834 id\u00e9es de startups avec taille de march\u00e9, analyse de la concurrence et score de viabilit\u00e9.", "tag": "IdeaProof", "lang": "en" },
-        { "title_fr": "Tendances de financement des startups en 2026 (17 000+ entreprises financ\u00e9es par du VC)", "title_original": "Startup Funding Trends 2026: What 17,000+ VC-Backed Companies", "url": "https://bigideasdb.com/startup-funding-trends-2026", "description_fr": "Le financement mondial en capital-risque est remont\u00e9 vers 300 milliards de dollars d\u00e9but 2026, apr\u00e8s un point bas historique en 2023.", "tag": "BigIdeasDB", "lang": "en" },
-        { "title_fr": "Statistiques de financement des startups par industrie 2026", "title_original": "Startup Funding Statistics by Industry 2026", "url": "https://angelinvestorsnetwork.com/startups/startup-funding-statistics-by-industry-2026", "description_fr": "L'infrastructure IA capte pr\u00e8s de la moiti\u00e9 du capital-risque d\u00e9ploy\u00e9, devant la sant\u00e9/biotech.", "tag": "Angel Investors Network", "lang": "en" },
-        { "title_fr": "Statistiques des startups 2026 : cr\u00e9ation, \u00e9chec et financement", "title_original": "Startup Statistics 2026: Formation, Failure, Funding and", "url": "https://axis-intelligence.com/startup-statistics/", "description_fr": "510 milliards de dollars de capital-risque lev\u00e9s au premier semestre 2026, d\u00e9j\u00e0 plus que sur toute l'ann\u00e9e 2025, OpenAI et Anthropic en t\u00eate.", "tag": "Axis Intelligence", "lang": "en" },
-        { "title_fr": "March\u00e9 des donn\u00e9es alternatives : taille et croissance 2026-2033", "title_original": "Alternative Data Market Size And Growth Report, 2026-2033", "url": "https://www.grandviewresearch.com/industry-analysis/alternative-data-market", "description_fr": "Le march\u00e9 des donn\u00e9es alternatives doit passer de 29,6 milliards de dollars en 2026 \u00e0 276,9 milliards en 2033, soit une croissance annuelle de 37,6 %.", "tag": "Grand View Research", "lang": "en" },
-        { "title_fr": "15 exemples de niches de march\u00e9 lucratives pour 2026", "title_original": "15 lucrative niche market examples for business in 2026", "url": "https://whop.com/blog/niche-markets/", "description_fr": "S\u00e9lection de 15 niches \u00e0 fort potentiel, appuy\u00e9es par des donn\u00e9es de revenus r\u00e9els et des id\u00e9es de produits concr\u00e8tes.", "tag": "Whop", "lang": "en" }
+        {
+          "title_fr": "Startup Ideas Database 2024",
+          "title_original": "Startup Ideas Database 2024",
+          "url": "https://ideaproof.io/startup-ideas/",
+          "description_fr": "Verified business opportunities with market size and viability scores.",
+          "source": "ideaproof.io",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Startup Funding Trends 2024",
+          "title_original": "Startup Funding Trends 2024",
+          "url": "https://bigideasdb.com/startup-funding/",
+          "description_fr": "Venture capital trends, funding distribution by industry, and investor insights.",
+          "source": "bigideasdb.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Startup Statistics 2024: Funding & Success Rates",
+          "title_original": "Startup Statistics 2024: Funding & Success Rates",
+          "url": "https://axis-intelligence.com/startup-statistics/",
+          "description_fr": "~$300B annual VC funding, AI infrastructure capturing largest share, fintech growing.",
+          "source": "axis-intelligence.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Alternative Data Market 2024-2030",
+          "title_original": "Alternative Data Market 2024-2030",
+          "url": "https://www.grandviewresearch.com/industry-analysis/alternative-data/",
+          "description_fr": "Market growing from $29.6B (2024) to $276.9B (2030), 37.6% CAGR.",
+          "source": "grandviewresearch.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "Lucrative Niche Markets 2024",
+          "title_original": "Lucrative Niche Markets 2024",
+          "url": "https://whop.com/blog/niche-markets/",
+          "description_fr": "Underserved markets analysis with revenue data and market opportunities.",
+          "source": "whop.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "McKinsey on Startups 2024",
+          "title_original": "McKinsey on Startups 2024",
+          "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-startups/",
+          "description_fr": "Research-backed insights on startup success factors and market dynamics.",
+          "source": "mckinsey.com",
+          "lang": "en"
+        }
       ]
     },
     "news_ia": {
-      "summary": "Le mois de septembre 2026 a \u00e9t\u00e9 particuli\u00e8rement dense en sorties de mod\u00e8les : cinq lancements frontier en dix jours, dont Claude d'Anthropic et DeepSeek-V4.1-Flash, avec l'apparition remarqu\u00e9e de mod\u00e8les \u00e0 capacit\u00e9s cyber. C\u00f4t\u00e9 adoption, l'\u00e9cart entre le taux d'adoption de l'IA en entreprise et l'impact business r\u00e9ellement mesur\u00e9 (le \u00ab AI Adoption-to-Impact Decoupling Index \u00bb) reste consid\u00e9rable, signe que la p\u00e9riode de d\u00e9ploiement massif ne s'est pas encore traduite en gains op\u00e9rationnels \u00e0 la m\u00eame vitesse.",
+      "summary": "L'année 2024 connaît un accélération des sorties de modèles frontier avec des innovations majeures en multimodalité, RAG et spécialisation par domaine. Côté adoption, l'écart entre le taux d'adoption de l'IA en entreprise (88%) et l'impact business réellement mesuré (39% constatent un bénéfice) reste considérable, signe que la période de déploiement massif ne s'est pas encore traduite en gains opérationnels à la même vitesse. Les modèles open-source gagnent en popularité et en capacités, démocratisant l'accès aux technologies IA.",
       "key_figures": [
-        { "label": "Lancements de mod\u00e8les frontier en 10 jours (sept. 2026)", "value": "5" },
-        { "label": "Entreprises d\u00e9clarant utiliser l'IA", "value": "88 %" },
-        { "label": "Entreprises constatant un b\u00e9n\u00e9fice mesurable", "value": "39 %" },
-        { "label": "\u00c9cart adoption / impact (AIADI)", "value": "82 points" }
+        {
+          "label": "Modèles IA en production",
+          "value": "+500"
+        },
+        {
+          "label": "Adoption IA en entreprise",
+          "value": "88%"
+        },
+        {
+          "label": "Bénéfice business mesuré",
+          "value": "39%"
+        },
+        {
+          "label": "Investissement IA annuel",
+          "value": "+$100 milliards"
+        }
       ],
       "items": [
-        { "title_fr": "Suivi des sorties de mod\u00e8les IA \u2014 septembre 2026", "title_original": "AI Model Releases: September 2026 Tracker and Dated Ledger", "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker", "description_fr": "Registre dat\u00e9 de toutes les sorties de mod\u00e8les IA de septembre 2026, avec prix, taille de contexte et mod\u00e8le remplac\u00e9.", "tag": "Digital Applied", "lang": "en" },
-        { "title_fr": "Derniers mod\u00e8les IA sortis \u2014 septembre 2026", "title_original": "Latest AI Model Releases — September 2026", "url": "https://aireleasetracker.com/latest", "description_fr": "Le mod\u00e8le le plus r\u00e9cent trac\u00e9 est DeepSeek-V4.1-Flash, dans un mois marqu\u00e9 par cinq lancements frontier en dix jours.", "tag": "AI Release Tracker", "lang": "en" },
-        { "title_fr": "Mises \u00e0 jour des mod\u00e8les IA en septembre 2026 : tous les lancements", "title_original": "September 2026 AI Model Updates: Every Launch, Price Move", "url": "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html", "description_fr": "Anthropic a lanc\u00e9 Claude ce mois-ci parmi cinq sorties frontier en dix jours, incluant un mod\u00e8le \u00e0 capacit\u00e9s cyber.", "tag": "Local AI Zone", "lang": "en" },
-        { "title_fr": "Statistiques d'adoption de l'IA 2026 : 88 % l'utilisent, 39 % en b\u00e9n\u00e9ficient", "title_original": "AI Adoption Statistics 2026: 88% Use It, 39% Benefit (Data)", "url": "https://axis-intelligence.com/ai-adoption-statistics/", "description_fr": "88 % des entreprises d\u00e9clarent utiliser l'IA mais seulement 39 % en mesurent un b\u00e9n\u00e9fice tangible : un \u00e9cart adoption/impact de 82 points.", "tag": "Axis Intelligence", "lang": "en" },
-        { "title_fr": "Statistiques IA 2026 : taille de march\u00e9, adoption et \u00e9cart de valeur", "title_original": "AI Statistics 2026: Market Size, Adoption, and the Value Gap", "url": "https://axis-intelligence.com/ai-statistics/", "description_fr": "Analyse de l'indice AIADI mesurant le d\u00e9couplage entre l'adoption massive de l'IA et son impact business r\u00e9el.", "tag": "Axis Intelligence", "lang": "en" }
+        {
+          "title_fr": "AI Model Releases & Updates 2024",
+          "title_original": "AI Model Releases & Updates 2024",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases/",
+          "description_fr": "Latest frontier models from OpenAI, Anthropic, Google, Meta with benchmarks and pricing.",
+          "source": "digitalapplied.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "AI Release Tracker 2024",
+          "title_original": "AI Release Tracker 2024",
+          "url": "https://aireleasetracker.com/",
+          "description_fr": "Comprehensive timeline of AI model announcements and deployment milestones.",
+          "source": "aireleasetracker.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "AI Adoption in Enterprise 2024",
+          "title_original": "AI Adoption in Enterprise 2024",
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai/",
+          "description_fr": "88% of enterprises using AI, but only 39% seeing measurable business impact.",
+          "source": "mckinsey.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "AI Trends and Predictions 2024",
+          "title_original": "AI Trends and Predictions 2024",
+          "url": "https://www.forbes.com/sites/bernardmarr/ai-trends/",
+          "description_fr": "Impact of generative AI on business, multimodal models, and RAG architectures.",
+          "source": "forbes.com",
+          "lang": "en"
+        },
+        {
+          "title_fr": "AI News & Updates - The Verge",
+          "title_original": "AI News & Updates - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "description_fr": "Breaking AI developments, policy changes, and industry announcements.",
+          "source": "theverge.com",
+          "lang": "en"
+        }
       ]
     }
   }
